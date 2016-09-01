@@ -1,0 +1,33 @@
+.modal {
+  display: table;
+  height: 100%;
+  width: 100%;
+
+  .vertical-align-helper {
+    display: table-cell;
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+  }
+
+  .close-button-wrapper {
+    display: none;
+  }
+
+  &:hover .close-button-wrapper{
+    display: block;
+  }
+}
+
+.modal-backdrop {
+  z-index: 0;
+}
+
+@media (max-width: 767px) {
+  .modal {
+    display: block;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+  }
+}

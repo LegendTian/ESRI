@@ -1,0 +1,25 @@
+.builder-banner {
+  margin: 0;
+
+  .background-image.lazy-image.loaded {
+    @include animation(fadeIn 1.5s);
+  }
+
+  .container-fluid {
+    position: relative;
+  }
+
+  .app-name {
+    color: $nameHighlight;
+    font-weight: bold;
+  }
+
+  .append {
+    color: $nameStandard;
+  }
+
+  .dropdown-menu li.bg-info a {
+    background-color: inherit;
+  }
+
+}

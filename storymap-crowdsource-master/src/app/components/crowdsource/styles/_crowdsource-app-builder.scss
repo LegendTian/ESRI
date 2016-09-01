@@ -1,0 +1,24 @@
+@import "calcite/colors-default";
+
+$sidePanelWidth: 365px;
+
+@import "crowdsource/styles/settingsModals/SettingsModal";
+@import "crowdsource/styles/settingsModals/Layout";
+@import "builder/banner/Banner";
+@import "builder/sidePanel/SidePanel";
+@import "builder/sidePanel/settings/Settings";
+@import "builder/sidePanel/help/Help";
+
+// Editor UI
+@import "forms/inlineEditor/InlineEditor";
+
+.viewer {
+  float: right;
+  @include transition(width 500ms);
+}
+
+
+.visible-side-panel .viewer {
+  width: calc(100% - #{$sidePanelWidth});
+  @include transition(width 500ms);
+}

@@ -1,0 +1,23 @@
+.routeEventIdentifyLocation {
+    background-image: url(../img/RouteEventIdentifyLocation32.png);
+    width: 32px;
+    height: 32px;
+}
+
+.routeEventMakeRoute {
+    background-image: url(../img/RouteEventMakeRoute32.png);
+    width: 32px;
+    height: 32px;
+}
+
+.routeEventDefineLine {
+    background-image: url(../img/RouteEventDefineLine32psd.png);
+    width: 32px;
+    height: 32px;
+}
+
+.videoDataAnimation {
+    background-image: url(../img/VideoDataAnimation32.png);
+    width: 32px;
+    height: 32px;
+}

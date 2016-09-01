@@ -1,0 +1,217 @@
+// ┌───────────────┐
+// │ Calicte Panel │
+// └───────────────┘
+//
+// Styling for panels, panel, title and body
+
+.calcite-panels {
+  z-index: 2; // above widgets, below popup
+
+  &.panel-group {
+    margin-bottom: 0;
+  }
+
+  .panel {
+    margin-top: 0;
+    border: none;
+    border-radius: 0;
+    font-size: $panel_font_size;
+    background-color: inherit;
+  }
+
+  .panel + .panel {
+    margin-top: 0;
+  }
+
+  // Heading
+  
+  .panel-heading {
+    padding: 0;
+    border-radius: 0;
+  }
+
+  .panel-title {
+    display: flex;
+    font-size: $panel_title_font_size;
+    font-weight: $panel_title_font_weight;  
+  }
+
+  .panel-label {
+    display: inline-block;
+    padding-left: 5px;
+  }
+
+  .panel-toggle {
+    flex: 1;
+    padding: 8px 8px 8px 10px;
+    text-decoration: none;
+    min-width: 34px;
+    .glyphicon {
+      top: 2px;
+      margin: 0;
+      padding-right: 2px;
+    }
+  }
+
+  .panel-close {
+    padding: 10px 10px 5px;
+    font-size: $panel_font_size - 1;
+    text-decoration: none;
+  }
+
+  // Body - specific Bootstrap overrides for map apps
+
+  .panel-heading + .panel-collapse > .panel-body {
+    border-top: none;
+  }
+
+  .panel-body {
+    padding: 15px;
+    width: $panel_body_width;
+    min-height: $panel_body_min_height;
+    max-height: $panel_body_max_height;
+    font-size: $panel_font_size;
+    overflow-x: hidden;
+
+    // Elements formatted slightly smaller for map apps
+
+    button {
+      font-size: $panel_font_size;
+    }
+
+    input, 
+    select, 
+    textarea,
+    select {
+      font-size: $panel_font_size;
+    }
+
+    select {
+      -webkit-appearance: none;
+      appearance: none;
+      -moz-appearance: none;
+      background-position: center right;
+      background-repeat: no-repeat;
+      background-size: 18px;
+      outline: none;
+      padding-right: 22px;
+    }
+
+    // IE
+    select::-ms-expand {
+      display: none;
+    }
+
+    .form-control {
+      height: $panel_form_control_height;
+      padding: 4px 8px;
+    }
+
+    select.form-control {
+      padding: 4px 22px 4px 8px;
+    }
+
+    .calcite-form-title {
+      padding: 20px 0 5px;
+    }
+    .calcite-form-padding {
+      padding: 15px 0 0;
+    }
+    .nav-tabs > li > a {
+      padding: 6px 12px 4px;
+    }
+    .nav-tabs > li > a:hover,
+    .nav-tabs > li > a:focus, {
+      padding-top: 5px;
+      border-top: 2px solid;
+      border-bottom-color: transparent;
+    }
+  }
+
+  // Auto expand
+
+  .calcite-body-expander {
+    min-height: $panel_body_min_height;
+    -webkit-transition: min-height 0.25s ease-out;
+    -o-transition: min-height 0.25s ease-out;
+    transition: min-height 0.25s ease-out;
+  }
+
+  .calcite-body-expander:focus,
+  .calcite-body-expander:hover {
+    min-height: $panel_body_max_height_expanded;
+    -webkit-transition: min-height 0.25s ease-out;
+    -o-transition: min-height 0.25s ease-out;
+    transition: min-height 0.25s ease-out;
+  }
+
+  // Expand
+
+  .calcite-body-expanded {
+    height: $panel_body_max_height_expanded;
+    -webkit-transition: height 0.25s ease-out;
+    -o-transition: height 0.25s ease-out;
+    transition: height 0.25s ease-out;
+  }
+
+  // Panel animation (entire panel)
+
+  .panel.collapsing {
+    // -webkit-transition: none;
+    // transition: none;
+    -webkit-transition: height 0.01s ease-out;
+    -o-transition: height 0.01s ease-out;
+    transition: height 0.01s ease-out;
+  }
+
+  // Panel body animation
+
+  .panel-collapse.collapsing {
+    -webkit-transition: height 0.35s ease-out;
+    -o-transition: height 0.35s ease-out;
+    transition: height 0.35s ease-out;
+  }
+}
+
+// Mobile screens
+
+@media (max-width: $panels_breakpoint_width_mobile) { 
+  .calcite-panels {
+    .panel-body {
+      width: $panel_body_width_mobile;
+    }
+  }
+}
+
+@media (min-height: $panels_breakpoint_height_xxs) { 
+  .calcite-panels {
+    .panel-body {
+      max-height: $panel_body_height_xxs;
+    }
+  }
+}
+
+@media (min-height: $panels_breakpoint_height_xs) { 
+  .calcite-panels {
+    .panel-body {
+      max-height: $panel_body_height_xs;
+    }
+  }
+}
+
+@media (min-height: $panels_breakpoint_height_sm) { 
+  .calcite-panels {
+    .panel-body {
+      max-height: $panel_body_height_sm;
+    }
+  }
+}
+
+@media (min-height: $panels_breakpoint_height_md) { 
+  .calcite-panels {
+    .panel-body {
+      max-height: $panel_body_height_md;
+    }
+  }
+}
+

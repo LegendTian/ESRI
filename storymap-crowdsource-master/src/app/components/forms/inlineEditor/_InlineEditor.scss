@@ -1,0 +1,42 @@
+@import "./input/InlineInput";
+@import "./textarea/InlineTextarea";
+
+.inline-editor {
+  .form-group {
+    margin: 0;
+    padding: 0;
+  }
+
+  .form-control {
+    background: none;
+    color: inherit;
+    margin: 0;
+    padding: inherit;
+    font-size: inherit;
+    text-align: inherit;
+    line-height: inherit;
+    height: inherit;
+  }
+}
+
+.inline-error-message {
+  h6 {
+    font-weight: bold;
+    margin: 0;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+  }
+
+  .error-message {
+    margin-right: 5px;
+  }
+
+  .fix-btn {
+    display: block;
+    margin-top: 5px;
+  }
+}

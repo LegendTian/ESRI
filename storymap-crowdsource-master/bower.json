@@ -1,0 +1,42 @@
+{
+  "name": "story-map-crowdsource",
+  "version": "0.1.0",
+  "homepage": "https://storymapsdev.arcgis.com/en/app-list/crowdsource",
+  "authors": [
+    "Esri"
+  ],
+  "keywords": [
+    "storymaps",
+    "esri"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~15.1.0",
+    "react-redux": "https://cdnjs.cloudflare.com/ajax/libs/react-redux/4.1.1/react-redux.min.js",
+    "redux": "https://cdnjs.cloudflare.com/ajax/libs/redux/3.0.6/redux.min.js",
+    "bootstrap-sass": "~3.3.5",
+    "calcite-bootstrap": "https://github.com/Esri/calcite-bootstrap/releases/download/v0.3.3/calcite-bootstrap.zip",
+    "cluster-layer-js": "https://github.com/ssylvia/cluster-layer-js/archive/ffadc03967ff6ef9474b5a00fb0ef902650c794a.zip",
+    "eventEmitter": "~4.3.0",
+    "i18n": "https://github.com/requirejs/i18n/archive/2.0.6.zip",
+    "jquery": "~2.1.4",
+    "velocity": "https://github.com/julianshapiro/velocity/archive/1.2.3.zip",
+    "bourbon": "~4.2.6",
+    "cropperjs": "~0.7.2",
+    "loader": "https://github.com/fengyuanchen/loader/archive/eb81471c8ac608fef799e3b90b8c2ead6ff62a82.zip",
+    "resample-hermite": "https://github.com/viliusle/Hermite-resize/archive/ede593b94d8fc9a33141229dc72fd334c7563baf.zip",
+    "smartcrop": "*",
+    "autosize": "^3.0.15",
+    "clipboard": "^1.5.12",
+    "urijs": "^1.18.0",
+    "Autolinker.js": "^0.26.0",
+    "xss": "^0.2.13"
+  }
+}

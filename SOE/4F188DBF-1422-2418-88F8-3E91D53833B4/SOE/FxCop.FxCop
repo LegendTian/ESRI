@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FxCopProject Version="1.36" Name="My FxCop Project">
+ <ProjectOptions>
+  <SharedProject>True</SharedProject>
+  <Stylesheet Apply="False">c:\program files (x86)\microsoft fxcop 1.36\Xml\FxCopReport.xsl</Stylesheet>
+  <SaveMessages>
+   <Project Status="Active, Excluded" NewOnly="False" />
+   <Report Status="Active" NewOnly="False" />
+  </SaveMessages>
+  <ProjectFile Compress="True" DefaultTargetCheck="True" DefaultRuleCheck="True" SaveByRuleGroup="" Deterministic="True" />
+  <EnableMultithreadedLoad>True</EnableMultithreadedLoad>
+  <EnableMultithreadedAnalysis>True</EnableMultithreadedAnalysis>
+  <SourceLookup>True</SourceLookup>
+  <AnalysisExceptionsThreshold>10</AnalysisExceptionsThreshold>
+  <RuleExceptionsThreshold>1</RuleExceptionsThreshold>
+  <Spelling Locale="en-US" />
+  <OverrideRuleVisibilities>False</OverrideRuleVisibilities>
+  <CustomDictionaries SearchFxCopDir="True" SearchUserProfile="True" SearchProjectDir="True" />
+  <SearchGlobalAssemblyCache>False</SearchGlobalAssemblyCache>
+  <DeadlockDetectionTimeout>120</DeadlockDetectionTimeout>
+  <IgnoreGeneratedCode>False</IgnoreGeneratedCode>
+ </ProjectOptions>
+ <Targets>
+  <AssemblyReferenceDirectories>
+   <Directory>$(ProjectDir)/../../../Program Files (x86)/ArcGIS/DeveloperKit10.1/bin/</Directory>
+   <Directory>$(ProjectDir)/../../../Program Files (x86)/ArcGIS/DeveloperKit10.1/DotNet/</Directory>
+  </AssemblyReferenceDirectories>
+  <Target Name="$(ProjectDir)/DSUtility/bin/Release/Studioat.ArcGis.Soe.Rest.DSUtility.dll" Analyze="True" AnalyzeAllChildren="True" />
+ </Targets>
+ <Rules>
+  <RuleFiles>
+   <RuleFile Name="$(FxCopDir)\Rules\DesignRules.dll" Enabled="True" AllRulesEnabled="True" />
+   <RuleFile Name="$(FxCopDir)\Rules\GlobalizationRules.dll" Enabled="True" AllRulesEnabled="True" />
+   <RuleFile Name="$(FxCopDir)\Rules\InteroperabilityRules.dll" Enabled="True" AllRulesEnabled="True" />
+   <RuleFile Name="$(FxCopDir)\Rules\MobilityRules.dll" Enabled="True" AllRulesEnabled="True" />
+   <RuleFile Name="$(FxCopDir)\Rules\NamingRules.dll" Enabled="True" AllRulesEnabled="True" />
+   <RuleFile Name="$(FxCopDir)\Rules\PerformanceRules.dll" Enabled="True" AllRulesEnabled="True" />
+   <RuleFile Name="$(FxCopDir)\Rules\PortabilityRules.dll" Enabled="True" AllRulesEnabled="True" />
+   <RuleFile Name="$(FxCopDir)\Rules\SecurityRules.dll" Enabled="True" AllRulesEnabled="True" />
+   <RuleFile Name="$(FxCopDir)\Rules\UsageRules.dll" Enabled="True" AllRulesEnabled="True" />
+  </RuleFiles>
+  <Groups />
+  <Settings />
+ </Rules>
+ <FxCopReport Version="1.36">
+  <Namespaces>
+   <Namespace Name="Studioat.ArcGis.Soe.Rest">
+    <Messages>
+     <Message TypeName="AvoidNamespacesWithFewTypes" Category="Microsoft.Design" CheckId="CA1020" Status="Excluded" Created="2012-06-29 17:16:56Z">
+      <Issue>
+       <Item>Studioat.ArcGis.Soe.Rest</Item>
+      </Issue>
+     </Message>
+     <Message Id="Gis" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Excluded" Created="2012-06-29 17:16:56Z">
+      <Issue Name="Namespace">
+       <Item>Gis</Item>
+       <Item>Studioat.ArcGis.Soe.Rest</Item>
+      </Issue>
+     </Message>
+     <Message Id="Soe" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Excluded" Created="2012-06-29 17:16:56Z">
+      <Issue Name="Namespace">
+       <Item>Soe</Item>
+       <Item>Studioat.ArcGis.Soe.Rest</Item>
+      </Issue>
+     </Message>
+     <Message Id="Studioat" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Excluded" Created="2012-06-29 17:16:56Z">
+      <Issue Name="Namespace">
+       <Item>Studioat</Item>
+       <Item>Studioat.ArcGis.Soe.Rest</Item>
+      </Issue>
+     </Message>
+    </Messages>
+   </Namespace>
+  </Namespaces>
+  <Targets>
+   <Target Name="$(ProjectDir)/DSUtility/bin/Release/Studioat.ArcGis.Soe.Rest.DSUtility.dll">
+    <Modules>
+     <Module Name="studioat.arcgis.soe.rest.dsutility.dll">
+      <Messages>
+       <Message Id="Gis" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Excluded" Created="2012-06-29 17:16:56Z">
+        <Issue Name="Assembly">
+         <Item>Gis</Item>
+         <Item>'Studioat.ArcGis.Soe.Rest.DSUtility.dll'</Item>
+        </Issue>
+       </Message>
+       <Message Id="Soe" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Excluded" Created="2012-06-29 17:16:56Z">
+        <Issue Name="Assembly">
+         <Item>Soe</Item>
+         <Item>'Studioat.ArcGis.Soe.Rest.DSUtility.dll'</Item>
+        </Issue>
+       </Message>
+       <Message Id="Studioat" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Excluded" Created="2012-06-29 17:16:56Z">
+        <Issue Name="Assembly">
+         <Item>Studioat</Item>
+         <Item>'Studioat.ArcGis.Soe.Rest.DSUtility.dll'</Item>
+        </Issue>
+       </Message>
+      </Messages>
+      <Namespaces>
+       <Namespace Name="Studioat.ArcGis.Soe.Rest">
+        <Types>
+         <Type Name="DSUtility">
+          <Members>
+           <Member Name="#HandleRESTRequest(System.String,System.String,System.String,System.String,System.String,System.String,System.String&amp;)">
+            <Messages>
+             <Message Id="0#" TypeName="ParameterNamesShouldMatchBaseDeclaration" Category="Microsoft.Naming" CheckId="CA1725" Status="Excluded" Created="2012-06-29 17:16:56Z">
+              <Issue>
+               <Item>'DSUtility.HandleRESTRequest(string, string, string, string, string, string, out string)'</Item>
+               <Item>'capabilities'</Item>
+               <Item>'Capabilities'</Item>
+               <Item>'IRESTRequestHandler.HandleRESTRequest(string, string, string, string, string, string, out string)'</Item>
+              </Issue>
+             </Message>
+            </Messages>
+           </Member>
+          </Members>
+         </Type>
+         <Type Name="RouteLayerInfo">
+          <Members>
+           <Member Name="#ToJsonObject()">
+            <Messages>
+             <Message Id="Json" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Excluded" Created="2012-06-29 17:16:56Z">
+              <Issue Name="Member">
+               <Item>Json</Item>
+               <Item>'RouteLayerInfo.ToJsonObject()'</Item>
+              </Issue>
+             </Message>
+            </Messages>
+           </Member>
+          </Members>
+         </Type>
+        </Types>
+       </Namespace>
+      </Namespaces>
+     </Module>
+    </Modules>
+   </Target>
+  </Targets>
+  <Rules>
+   <Rule TypeName="AvoidNamespacesWithFewTypes" Category="Microsoft.Design" CheckId="CA1020">
+    <Resolution Name="Default">Consider merging the types defined in '{0}' with another namespace.</Resolution>
+   </Rule>
+   <Rule TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704">
+    <Resolution Name="Assembly">Correct the spelling of '{0}' in assembly name {1}.</Resolution>
+    <Resolution Name="Member">Correct the spelling of '{0}' in member name {1} or remove it entirely if it represents any sort of Hungarian notation.</Resolution>
+    <Resolution Name="Namespace">Correct the spelling of '{0}' in namespace name '{1}'.</Resolution>
+   </Rule>
+   <Rule TypeName="ParameterNamesShouldMatchBaseDeclaration" Category="Microsoft.Naming" CheckId="CA1725">
+    <Resolution Name="Default">In member {0}, change parameter name {1} to {2} in order to match the identifier as it has been declared in {3}.</Resolution>
+   </Rule>
+  </Rules>
+ </FxCopReport>
+</FxCopProject>

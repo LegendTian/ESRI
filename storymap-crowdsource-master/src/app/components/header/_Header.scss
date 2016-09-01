@@ -1,0 +1,111 @@
+.main-app-header.header {
+  position: absolute;
+  height: $navbar-height;
+  top: 0;
+  overflow: hidden;
+  z-index: 51;
+  width: 100%;
+  @include animation(slideInHeader 1s);
+
+  .cell-wrapper {
+    display: table;
+    height: 100%;
+    width: 100%;
+  }
+
+  .cell {
+    display: table-cell;
+    vertical-align: middle;
+    white-space: nowrap;
+
+    &:first-child {
+      margin-left: 5px;
+    }
+
+    &:last-child {
+      padding: 0 $headerMargin 0;
+      text-align: right;
+
+      .participate {
+        margin-right: 5px;
+      }
+    }
+
+    &.fill-cell {
+      width: 100%;
+    }
+  }
+
+  img.logo{
+    height: $navbar-height - 20;
+    margin: 0 $headerMargin;
+  }
+
+  .title {
+    margin-left: $headerMargin;
+    font-size: 1.3em;
+    line-height: 1.3em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+  }
+
+  .participate {
+    position: relative;
+
+    &.participate-btn-enter {
+      opacity: 0;
+    }
+
+    &.participate-btn-enter-active {
+      opacity: 1;
+      @include transition(opacity 1s);
+    }
+
+    &.participate-btn-leave {
+      opacity: 0;
+      @include transition(opacity 1s);
+    }
+
+    .text {
+      margin-left: 28px;
+    }
+
+    .icon {
+      position: absolute;
+      height: 32px;
+      width: 32px;
+      left: 3px;
+      top: 1px;
+    }
+
+  }
+
+  .share {
+    padding: 0 5px;
+
+    svg {
+      height: 1.2em;
+      width: 1.2em;
+      vertical-align: middle;
+    }
+  }
+
+  // RESPONSIVE STYLES START
+  @media (max-width: 767px) {
+    .participate-cell, .title-cell {
+      display: none;
+    }
+  }
+  // RESPONSIVE STYLES END
+
+}
+
+@include keyframes(slideInHeader) {
+  0% {
+    top: -$navbar-height;
+  }
+  100% {
+    top: 0;
+  }
+};

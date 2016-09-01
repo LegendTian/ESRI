@@ -1,0 +1,37 @@
+@import "./socialSharing/SocialSharingSettings";
+
+.settings.side-panel {
+
+  .close-button-wrapper {
+    display: none;
+  }
+
+  &:hover .close-button-wrapper{
+    display: block;
+  }
+
+  .settings-selector {
+    width: 100%;
+
+    button {
+      text-align: left;
+      width: 100%;
+    }
+
+    h2 .selected {
+      font-size: 21px;
+      font-weight: bold;
+      margin: 10px;
+      text-transform: uppercase;
+    }
+
+    &:hover h2 .selected {
+      text-decoration: underline;
+    }
+
+    ul {
+      margin-left: -1px;
+      width: calc(100% + 2px);
+    }
+  }
+}

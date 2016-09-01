@@ -1,0 +1,64 @@
+@import "socialSharing/ShareLink";
+@import "appSharing/AppSharing";
+
+.viewer-dialogs {
+  color: #4c4c4c;
+
+  .modal-header, .modal-footer {
+    border: none;
+  }
+
+  .modal-title {
+    font-weight: bold;
+  }
+
+  .link-button {
+    margin: 5px 5px 0 0;
+  }
+
+  .dropup {
+    display: inline-block;
+    margin: 0 5px;
+  }
+
+  .btn .caret {
+    margin-left: 5px;
+  }
+
+  @media (max-width: 767px) {
+    .dropup {
+      width: 100%;
+      margin: 5px 0 0;
+
+      .dropdown-toggle {
+        width: 100%;
+      }
+    }
+
+    .copy-button {
+      width: 100%;
+      margin-top: 5px;
+    }
+  }
+
+}
+
+// DIALOG FADE IN/OUT START
+.viewer-dialog-enter {
+  opacity: 0;
+}
+
+.viewer-dialog-enter.viewer-dialog-enter-active {
+  opacity: 1;
+  @include transition(opacity 300ms ease-in 0s);
+}
+
+.viewer-dialog-leave {
+  opacity: 1;
+}
+
+.viewer-dialog-leave.viewer-dialog-leave-active {
+  opacity: 0;
+  @include transition(opacity 300ms ease-in 0s);
+}
+// DIALOG FADE IN/OUT START

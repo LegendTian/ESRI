@@ -1,0 +1,106 @@
+// ┌──────────────────────┐
+// │ Layout - Inline Zoom │
+// └──────────────────────┘
+//
+// Simple theme that brings zoom and nav inline
+
+@import "../variables";
+
+// All APIs
+
+.calcite-layout-inline-left,
+.calcite-layout-inline-right {
+  .calcite-navbar {
+    height: 65px;
+    min-height: 65px;
+    .navbar-nav>li>a {
+      padding: 20px 15px 21px;
+    }
+  }
+  .calcite-navbar-search {
+    padding: 16px 15px;
+  }
+  .calcite-navbar-search.calcite-search-expander {
+    padding: 18px 15px;
+  }
+}
+
+.calcite-layout-inline-left .calcite-navbar {
+  left: 47px;
+}
+
+.calcite-layout-inline-right .calcite-navbar {
+  right: 47px;
+}
+
+.calcite-layout-inline-left,
+.calcite-layout-inline-right {
+  &.calcite-nav-top.calcite-margin-all .calcite-panels {
+    top: 95px;
+    bottom: auto;
+  }
+}
+
+.calcite-layout-inline-left{
+  &.calcite-nav-top.calcite-margin-all.calcite-nav-hidden .calcite-panels {
+    top: 15px;
+    bottom: auto;
+  }
+}
+
+.calcite-layout-inline-left,
+.calcite-layout-inline-right {
+  .calcite-dropdown .dropdown-toggle {
+    padding: 24px 20px 27px 21px;
+  }
+}
+
+// ArcGIS 3.x
+
+.calcite.calcite-layout-inline-left.calcite-nav-top.calcite-margin-all,
+.calcite.calcite-layout-inline-left.calcite-nav-bottom.calcite-margin-all,
+.calcite.calcite-layout-inline-right.calcite-nav-top.calcite-margin-all,
+.calcite.calcite-layout-inline-right.calcite-nav-bottom.calcite-margin-all {
+  .esriSimpleSlider {
+    margin: 15px;  
+  }
+}
+
+.calcite-layout-inline-left.calcite-nav-top.calcite-zoom-top-left.calcite-margin-all.calcite-nav-hidden ,
+.calcite-layout-inline-right.calcite-nav-top.calcite-zoom-top-left.calcite-margin-all.calcite-nav-hidden {
+  .esriZoom.esriVertical.esriComponent {
+    margin-top: 15px;
+  }
+}
+
+// Esri-Leaflet
+
+.calcite-layout-inline-left.calcite-nav-top.calcite-margin-all,
+.calcite-layout-inline-left.calcite-nav-bottom.calcite-margin-all,
+.calcite-layout-inline-right.calcite-nav-top.calcite-margin-all,
+.calcite-layout-inline-right.calcite-nav-bottom.calcite-margin-all {
+  .leaflet-control-zoom {
+    margin: 15px;  
+  }
+}
+
+.calcite-layout-inline-left.calcite-nav-top.calcite-zoom-top-left.calcite-margin-all.calcite-nav-trans,
+.calcite-layout-inline-right.calcite-nav-top.calcite-zoom-top-left.calcite-margin-all.calcite-nav-hidden {
+  .leaflet-control-zoom {
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: $base_breakpoint_max_width_sm) {
+  .calcite-layout-inline-left,
+  .calcite-layout-inline-right {
+    &.calcite-nav-top.calcite-margin-all,
+    &.calcite-nav-top.calcite-margin-all.calcite-nav-hidden {
+      .calcite-panels {
+        top: auto;
+        bottom: 0;
+        margin: auto 15px 30px 15px;
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+#app {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  z-index: 1;
+}
+
+.crowdsource-app {
+  height: 100%;
+  width: 100%;
+
+  .content-pane {
+    height: 100%;
+    width: 100%;
+  }
+
+  // BASE ICON STYLE
+  svg.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+  }
+
+  // AUTOMATICALLY STRECTCH BACKGROUND IMAGES
+  .background-image {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+  }
+
+  // BUTTONS
+  .text-btn {
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+  }
+
+  .navbar {
+    border: none;
+  }
+
+  .loading-error-message {
+    position: fixed;
+    margin: -60px 0 0 -20%;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    z-index: 902;
+
+    .error-action-button {
+      margin-top: 10px;
+    }
+
+    &.wait-for-action-enter {
+      opacity: 0;
+    }
+
+    &.wait-for-action-enter-active {
+      opacity: 1;
+      @include transition(opacity 1s);
+    }
+  }
+
+  .close-button-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: inherit;
+    z-index: 2;
+    overflow: hidden;
+
+    .close {
+      height: 50px;
+      width: 50px;
+      font-size: 50px;
+      font-weight: normal;
+    }
+  }
+
+  // CALCITE OVERRIDES
+  .tooltip.in {
+    opacity: 1;
+  }
+
+  .btn {
+    white-space: normal;
+  }
+
+  .btn.nav-btn {
+    white-space: nowrap;
+  }
+
+
+}

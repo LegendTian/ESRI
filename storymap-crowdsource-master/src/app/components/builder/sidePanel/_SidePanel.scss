@@ -1,0 +1,19 @@
+.side-panel {
+  position: absolute;
+  top: $navbar-height;
+  background-color: #fff;
+  color: #333;
+  height: calc(100% - #{$navbar-height});
+  width: $sidePanelWidth;
+  left: 0;
+  padding-bottom: 15px;
+  overflow: auto;
+
+  &.side-panel-enter-active {
+    z-index: 1;
+  }
+
+  .uploading-message {
+    margin-top: -15px;
+  }
+}

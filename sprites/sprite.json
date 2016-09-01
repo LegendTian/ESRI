@@ -1,0 +1,6666 @@
+{
+  "Road/Pentagon green yellow/3": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road tunnel/Shield blue white/4": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 114
+  },
+  "Road tunnel/Pentagon blue white (Alt)/1": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road/Rectangle yellow black (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 196
+  },
+  "Road/Hexagon green white/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road tunnel/U-shaped blue white/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 26
+  },
+  "Road tunnel/U-shaped yellow black/5": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 296
+  },
+  "Road/U-shaped white green/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 254
+  },
+  "Road tunnel/Rectangle hexagon blue white (Alt)/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road/Pentagon yellow black (Alt)/3": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Pentagon green white (Alt)/3": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/Pentagon inverse white black (Alt)/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road/Rectangle yellow black/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road/Pentagon green yellow (Alt)/3": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road/Rectangle white black (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 120
+  },
+  "Road/U-shaped yellow black/1": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road/Rectangle hexagon brown white/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road tunnel/Pentagon green yellow (Alt)/1": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road tunnel/Shield blue white/2": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/Rectangle blue white/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 60
+  },
+  "Road/U-shaped yellow black (Alt)/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 50,
+    "x": 220
+  },
+  "Road/U-shaped green leaf (Alt)/3": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Pentagon inverse white black (Alt)/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 392
+  },
+  "Road tunnel/Rectangle green white (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/Rectangle green white/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/Rectangle blue white (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 68
+  },
+  "Road/Stacked rectangle white black/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 106
+  },
+  "Road/Pentagon white black/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road tunnel/U-shaped yellow black/3": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road/Rectangle hexagon red white (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Rectangle hexagon green white (Alt)/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road/Pentagon blue white (Alt)/1": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road/U-shaped white black/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 26
+  },
+  "Road tunnel/Rectangle blue white (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 166
+  },
+  "Road/Rectangle red white (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road tunnel/Shield blue white (Alt)/6": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 0
+  },
+  "Road tunnel/Shield white black (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Rectangle yellow black (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 370
+  },
+  "Road/Hexagon green white (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Pentagon green white/6": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 312
+  },
+  "Road/U-shaped white green/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road tunnel/Hexagon orange black (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/U-shaped yellow black (Alt)/4": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 338
+  },
+  "Road tunnel/Rectangle blue white/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 268
+  },
+  "Road tunnel/Rectangle hexagon brown white (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Shield white black/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 178
+  },
+  "Road/Hexagon green white/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Hexagon orange black (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/U-shaped white green (Alt)/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road tunnel/Shield blue white/1": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Hexagon orange black/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road/Rectangle hexagon blue white (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Stacked rectangle white black/3": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 384
+  },
+  "Road/Pentagon white black (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road tunnel/U-shaped green leaf/3": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/Hexagon white black/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/Shield blue white/3": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/Hexagon red white (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Hexagon white black (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/U-shaped white black (Alt)/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 66
+  },
+  "Road/Shield red white/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 216
+  },
+  "Road tunnel/Rectangle hexagon green white (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road/U-shaped white black (Alt)/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 66
+  },
+  "Road tunnel/Hexagon blue white (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Pentagon yellow black (Alt)/1": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/Hexagon blue white/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Hexagon green white/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/Pentagon blue white (Alt)/3": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road tunnel/Rectangle green yellow (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/Hexagon green white (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/U-shaped green leaf (Alt)/3": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/U-shaped blue white (Alt)/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 26
+  },
+  "Road tunnel/Pentagon inverse white black/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road tunnel/U-shaped red white/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road tunnel/Rectangle green white (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road tunnel/V-shaped white black (Alt)/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road tunnel/Rectangle red white/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 150
+  },
+  "Road/Pentagon green yellow (Alt)/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 56
+  },
+  "Road tunnel/Rectangle hexagon green white/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Shield red white (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "City large scale": {
+    "y": 208,
+    "height": 12,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 12,
+    "x": 246
+  },
+  "Road tunnel/Rectangle hexagon brown white (Alt)/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road tunnel/Hexagon blue white/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Rectangle hexagon red white/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road/Pentagon green yellow/2": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road tunnel/Pentagon white black (Alt)/5": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 310
+  },
+  "Road tunnel/U-shaped white black (Alt)/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 26
+  },
+  "Road/Hexagon blue white/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road/Hexagon red white (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road/Pentagon yellow black/5": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 382
+  },
+  "Road tunnel/Shield white black/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Rectangle hexagon brown white (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Rectangle red white (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road/Pentagon green yellow (Alt)/5": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 138
+  },
+  "Road/U-shaped red white (Alt)/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 96
+  },
+  "Road tunnel/Pentagon green yellow/2": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road tunnel/Shield red white (Alt)/6": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 44,
+    "x": 110
+  },
+  "Road tunnel/Rectangle hexagon red white/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/Octagon green white/6": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 146
+  },
+  "Road tunnel/Pentagon green white (Alt)/1": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/U-shaped white green/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road/Pentagon green white/5": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 382
+  },
+  "Road tunnel/Pentagon yellow black (Alt)/3": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Rectangle white black (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 336
+  },
+  "Road/Hexagon red white/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/U-shaped blue white/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 66
+  },
+  "Road tunnel/Rectangle green white (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/Rectangle white black (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 44
+  },
+  "Road tunnel/Rectangle hexagon green white (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Pentagon green white/2": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/Pentagon green yellow (Alt)/4": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 184
+  },
+  "Road tunnel/Hexagon blue white (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/Rectangle yellow black (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 152
+  },
+  "Road/Shield green white (Alt)/5": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 230
+  },
+  "Road tunnel/U-shaped white green (Alt)/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 158
+  },
+  "Road/U-shaped white black (Alt)/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/U-shaped white black/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 372
+  },
+  "Road tunnel/Rectangle red white (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road/U-shaped green leaf/4": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 114
+  },
+  "Road/Rectangle hexagon blue white (Alt)/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road tunnel/Stacked rectangle white black/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 206
+  },
+  "Road tunnel/U-shaped white black/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Shield red white (Alt)/6": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 44,
+    "x": 110
+  },
+  "Road/Shield white black/6": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 44,
+    "x": 110
+  },
+  "Road tunnel/Shield green white/3": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road/U-shaped white black (Alt)/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/Hexagon red white/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road/Stacked rectangle white black (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 206
+  },
+  "Road/U-shaped white green/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 158
+  },
+  "Road/Rectangle hexagon red white/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road/Pentagon green white (Alt)/1": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Hexagon red white/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Pentagon blue white/2": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road tunnel/V-shaped white black/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 346
+  },
+  "Road/Rectangle red white/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 196
+  },
+  "Road/Pentagon yellow black/3": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/U-shaped blue white/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Pentagon yellow black/2": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/Rectangle red white (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/Rectangle hexagon blue white/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road/U-shaped blue white/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 26
+  },
+  "Road/V-shaped white black/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 346
+  },
+  "Road tunnel/V-shaped white black (Alt)/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 282
+  },
+  "Road/Shield blue white/3": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Shield red white/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Pentagon yellow black (Alt)/2": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/U-shaped green leaf/3": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/U-shaped blue white (Alt)/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 372
+  },
+  "Road tunnel/Rectangle hexagon red white/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Hexagon green white/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road/Rectangle yellow black (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 66
+  },
+  "Road tunnel/Shield blue white/6": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 0
+  },
+  "Road tunnel/U-shaped yellow black/4": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 338
+  },
+  "Road/Shield red white (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/U-shaped green leaf/1": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/Rectangle red white (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road/U-shaped white black/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 66
+  },
+  "Road/Shield white black/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Ferry/Rail ferry": {
+    "y": 208,
+    "height": 10,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 2,
+    "x": 258
+  },
+  "Road/Pentagon yellow black (Alt)/6": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 312
+  },
+  "Road/U-shaped green leaf (Alt)/1": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/Rectangle yellow black/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road tunnel/U-shaped red white/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road/Rectangle white black (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 178
+  },
+  "Road/Hexagon orange black (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Rectangle hexagon brown white/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/Rectangle white black (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 310
+  },
+  "Road/U-shaped white black (Alt)/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 26
+  },
+  "Road/Rectangle white black/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 120
+  },
+  "Road tunnel/Rectangle green white (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road tunnel/Shield blue white (Alt)/2": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/Pentagon green yellow/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 56
+  },
+  "Road/Rectangle green white (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road tunnel/U-shaped yellow black/1": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road tunnel/Pentagon yellow black/2": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/U-shaped blue white (Alt)/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/Hexagon orange black/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road/Rectangle red white/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 336
+  },
+  "Road/Rectangle hexagon brown white/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/U-shaped yellow black (Alt)/1": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road/Hexagon orange black (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Shield green white/4": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 276
+  },
+  "Road/Shield blue white (Alt)/3": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Hexagon green white (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Rectangle hexagon green white/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Pentagon white black/4": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 342
+  },
+  "Road/Shield blue white (Alt)/1": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Octagon green white/5": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 220
+  },
+  "Road/U-shaped yellow black/2": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road tunnel/U-shaped white green/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 254
+  },
+  "Road tunnel/Octagon green white (Alt)/3": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road/Octagon green white (Alt)/6": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 146
+  },
+  "Road/U-shaped green leaf (Alt)/5": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 74
+  },
+  "Exit/Default/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 124
+  },
+  "Road tunnel/Octagon green white/5": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 220
+  },
+  "Road/Shield white black (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Hexagon orange black/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Stacked rectangle white black/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 82
+  },
+  "Road/Shield green white/2": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road/Rectangle blue white (Alt)/3": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 362
+  },
+  "Road/Rectangle green yellow/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road tunnel/Rectangle blue white (Alt)/3": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 362
+  },
+  "Road tunnel/Rectangle hexagon blue white (Alt)/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road/Pentagon white black/5": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 310
+  },
+  "Road tunnel/U-shaped red white (Alt)/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road tunnel/Octagon green white (Alt)/5": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 220
+  },
+  "Road/Rectangle yellow black (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 336
+  },
+  "Road tunnel/Rectangle hexagon green white (Alt)/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road tunnel/Shield white black (Alt)/6": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 44,
+    "x": 110
+  },
+  "Road/Shield blue white/5": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 74
+  },
+  "Road tunnel/Rectangle hexagon green white/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/Pentagon green yellow/1": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road tunnel/Pentagon green white/3": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/Pentagon yellow black/1": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Rectangle hexagon brown white (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Rectangle blue white/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 142
+  },
+  "Road/Rectangle green white/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/U-shaped white black (Alt)/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/Shield green white (Alt)/6": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 148
+  },
+  "Road/U-shaped blue white/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 66
+  },
+  "Road/U-shaped red white (Alt)/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 32
+  },
+  "Road/V-shaped white black (Alt)/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road tunnel/U-shaped blue white (Alt)/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/Hexagon red white (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Stacked rectangle white black/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 200
+  },
+  "Road/Octagon green white/2": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road/Rectangle yellow black (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 150
+  },
+  "Road/Shield green white/3": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road tunnel/Pentagon white black/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 248
+  },
+  "Road/Rectangle yellow black/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/U-shaped white black/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 372
+  },
+  "Road tunnel/Pentagon blue white (Alt)/2": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road tunnel/Hexagon red white/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road/U-shaped green leaf/1": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Rectangle hexagon red white (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/Pentagon green white/1": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/V-shaped white black (Alt)/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road/Rectangle hexagon green white/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road tunnel/Hexagon white black (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Hexagon white black (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road/U-shaped red white (Alt)/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road tunnel/Pentagon blue white/3": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road/Rectangle hexagon blue white/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/V-shaped white black (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 380
+  },
+  "Road/Rectangle hexagon red white (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/U-shaped white green (Alt)/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road tunnel/U-shaped white green/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 158
+  },
+  "Road/U-shaped green leaf/5": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 74
+  },
+  "Road tunnel/Rectangle green white/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road/U-shaped white green (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 254
+  },
+  "Road/Rectangle hexagon red white/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Rectangle hexagon blue white/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Hexagon red white (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Hexagon blue white (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/Rectangle hexagon blue white/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Shield red white/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 216
+  },
+  "Road/Octagon green white/4": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 262
+  },
+  "Road tunnel/Rectangle yellow black (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 66
+  },
+  "Road tunnel/U-shaped yellow black (Alt)/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 50,
+    "x": 220
+  },
+  "Road tunnel/Rectangle hexagon blue white/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road tunnel/Hexagon orange black/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Octagon green white (Alt)/3": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road/U-shaped white green (Alt)/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road tunnel/Pentagon white black (Alt)/4": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 342
+  },
+  "Road tunnel/Pentagon yellow black/6": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 312
+  },
+  "Road/Pentagon white black (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 248
+  },
+  "Road/Shield white black (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 178
+  },
+  "Road/U-shaped green leaf (Alt)/2": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/U-shaped white black/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 66
+  },
+  "Road tunnel/U-shaped red white (Alt)/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 32
+  },
+  "Road/Rectangle blue white (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 180
+  },
+  "Road/Hexagon orange black/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Octagon green white (Alt)/2": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road tunnel/Rectangle hexagon green white/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road tunnel/Pentagon green white (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 0
+  },
+  "Road/Rectangle yellow black/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road/Hexagon red white (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/U-shaped blue white/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Hexagon orange black/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Hexagon blue white/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road tunnel/Hexagon blue white/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/Rectangle yellow black (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 336
+  },
+  "Water area large scale/Lake intermittent": {
+    "y": 0,
+    "height": 56,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 56,
+    "x": 0
+  },
+  "Road/Pentagon green yellow/4": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 184
+  },
+  "Road/Pentagon white black (Alt)/4": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 342
+  },
+  "Road/Rectangle blue white/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 142
+  },
+  "Road tunnel/Rectangle hexagon brown white/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Rectangle white black (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 310
+  },
+  "Road/U-shaped blue white/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 372
+  },
+  "Road/Hexagon white black/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Rectangle red white/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 152
+  },
+  "Road/Rectangle green yellow (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road/Hexagon white black/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Point of interest/Rail station": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 16,
+    "x": 214
+  },
+  "Road/Pentagon white black (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road/Rectangle blue white (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 166
+  },
+  "Road/Pentagon green yellow/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 56
+  },
+  "Road/Rectangle hexagon red white/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/U-shaped green leaf (Alt)/6": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 0
+  },
+  "Road/U-shaped green leaf/2": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Shield white black/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 216
+  },
+  "Road tunnel/Rectangle hexagon brown white/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road/Pentagon green white/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 0
+  },
+  "Road/Shield red white/6": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 44,
+    "x": 110
+  },
+  "Road tunnel/Pentagon green white/2": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Pentagon inverse white black (Alt)/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road tunnel/Rectangle hexagon green white (Alt)/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road/Pentagon white black (Alt)/5": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 310
+  },
+  "Road/Rectangle red white (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road/Hexagon green white/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/U-shaped white green/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road/Shield red white (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Hexagon blue white/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Rectangle green yellow (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/Pentagon blue white (Alt)/5": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 372
+  },
+  "Road tunnel/Hexagon white black (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Pentagon green white/1": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/Hexagon green white/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road/Pentagon green yellow/1": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road/U-shaped white green (Alt)/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 158
+  },
+  "Road tunnel/Hexagon green white (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road/U-shaped white green/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 220
+  },
+  "Road/Rectangle blue white (Alt)/5": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 404
+  },
+  "Road tunnel/Hexagon white black/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Rectangle blue white/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 258
+  },
+  "Road/Rectangle hexagon green white/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/U-shaped white green/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road tunnel/Rectangle green yellow/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road tunnel/Octagon green white/3": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road tunnel/Hexagon white black (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Rectangle hexagon brown white/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road/Rectangle white black/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 336
+  },
+  "Road tunnel/Pentagon yellow black/3": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/Rectangle blue white/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 110
+  },
+  "Road/Shield green white/1": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road/Hexagon red white/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road/U-shaped white black (Alt)/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 372
+  },
+  "Road/Rectangle white black (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 44
+  },
+  "Road/Hexagon red white/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road/Shield blue white (Alt)/5": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 74
+  },
+  "Road/Rectangle yellow black (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 370
+  },
+  "Road tunnel/U-shaped blue white (Alt)/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 372
+  },
+  "Road/U-shaped red white/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 32
+  },
+  "Road tunnel/Rectangle green yellow/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road tunnel/Shield red white/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 178
+  },
+  "Road tunnel/Pentagon green yellow (Alt)/3": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road/Rectangle green white/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road/Pentagon inverse white black/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road/U-shaped yellow black/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 50,
+    "x": 220
+  },
+  "Road tunnel/Pentagon blue white/1": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road/V-shaped white black/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road/V-shaped white black/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 380
+  },
+  "Road tunnel/V-shaped white black (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 380
+  },
+  "Road/Rectangle green white (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/Shield white black (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 216
+  },
+  "Road/Pentagon inverse white black (Alt)/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 346
+  },
+  "Exit/Default/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 232
+  },
+  "Exit/Default/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 234
+  },
+  "Road/Shield red white/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Pentagon inverse white black/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road/Pentagon green white (Alt)/2": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Hexagon orange black/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Water area medium scale/Lake intermittent": {
+    "y": 0,
+    "height": 56,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 56,
+    "x": 0
+  },
+  "Road/Rectangle hexagon green white (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road/Stacked rectangle white black/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 0
+  },
+  "Road/U-shaped red white/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 130
+  },
+  "Road tunnel/Hexagon red white (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Shield white black/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 178
+  },
+  "Road tunnel/V-shaped white black/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road/Rectangle yellow black (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 152
+  },
+  "Road tunnel/U-shaped red white/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 130
+  },
+  "Road tunnel/Pentagon blue white/5": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 372
+  },
+  "Road/U-shaped white black/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/U-shaped white black/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Rectangle hexagon green white (Alt)/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road tunnel/U-shaped blue white (Alt)/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 66
+  },
+  "Road/Pentagon inverse white black (Alt)/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road tunnel/V-shaped white black/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road tunnel/V-shaped white black/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road tunnel/Shield green white/2": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road tunnel/Rectangle yellow black/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road/Pentagon white black/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road/Pentagon blue white (Alt)/2": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road tunnel/Stacked rectangle white black (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 206
+  },
+  "Road/Rectangle yellow black/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road/Shield blue white (Alt)/6": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 0
+  },
+  "Road tunnel/Pentagon green white/5": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 382
+  },
+  "Road tunnel/Hexagon white black (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road/Rectangle hexagon green white (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Rectangle blue white (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 88
+  },
+  "Road/Hexagon red white (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road tunnel/U-shaped white green (Alt)/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 220
+  },
+  "Road tunnel/Hexagon blue white/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Hexagon white black (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Shield white black (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Stacked rectangle white black (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 82
+  },
+  "Road/Rectangle green white/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road tunnel/Rectangle green white/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road tunnel/U-shaped blue white/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/Pentagon green white/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 0
+  },
+  "Road/Hexagon white black (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/U-shaped white green (Alt)/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 220
+  },
+  "Road/U-shaped blue white (Alt)/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 66
+  },
+  "Exit/Default/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 96
+  },
+  "Road/Octagon green white (Alt)/5": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 220
+  },
+  "Road tunnel/U-shaped green leaf (Alt)/4": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 114
+  },
+  "Road/Hexagon orange black/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/U-shaped green leaf/6": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 0
+  },
+  "Road tunnel/Hexagon green white/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Pentagon inverse white black (Alt)/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road tunnel/Pentagon blue white/4": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 414
+  },
+  "Road tunnel/Hexagon blue white/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/Hexagon white black (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Pentagon green white (Alt)/6": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 312
+  },
+  "Road/U-shaped green leaf/6": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 0
+  },
+  "Road/Rectangle blue white (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 88
+  },
+  "Road tunnel/Rectangle hexagon brown white (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Shield blue white/2": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Rectangle green yellow/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road/Hexagon white black (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road tunnel/Rectangle hexagon brown white/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Hexagon orange black (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/U-shaped red white/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 96
+  },
+  "Road/Rectangle blue white/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 258
+  },
+  "Road tunnel/Rectangle white black/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 44
+  },
+  "Road tunnel/Rectangle yellow black (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 150
+  },
+  "Road/Shield green white (Alt)/4": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 276
+  },
+  "Road/Rectangle yellow black/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/Rectangle blue white (Alt)/5": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 404
+  },
+  "Road/Rectangle green yellow/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road/Rectangle white black/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 178
+  },
+  "Road tunnel/Pentagon inverse white black (Alt)/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 392
+  },
+  "Road/U-shaped red white/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road tunnel/Rectangle yellow black/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road tunnel/Rectangle hexagon red white (Alt)/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road tunnel/Shield white black (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Rectangle green yellow/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road/V-shaped white black (Alt)/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 282
+  },
+  "Road tunnel/Pentagon white black (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road tunnel/U-shaped white black (Alt)/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Octagon green white/6": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 146
+  },
+  "Road/U-shaped yellow black (Alt)/2": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road/Rectangle green yellow (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road tunnel/Hexagon white black (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/Octagon green white (Alt)/4": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 262
+  },
+  "Road tunnel/Hexagon white black/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Pentagon green white (Alt)/3": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/Octagon green white (Alt)/1": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road/Pentagon white black/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 248
+  },
+  "Road/Hexagon blue white (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/Rectangle blue white/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 110
+  },
+  "Road tunnel/Pentagon white black (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road tunnel/Hexagon red white (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road/Stacked rectangle white black (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 0
+  },
+  "Road/U-shaped white black (Alt)/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Stacked rectangle white black/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 82
+  },
+  "Road tunnel/Pentagon green yellow/4": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 184
+  },
+  "Road/Octagon green white (Alt)/2": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road/Shield green white (Alt)/1": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road/Hexagon green white/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Hexagon blue white (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Shield red white/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 178
+  },
+  "Road tunnel/U-shaped white black (Alt)/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 372
+  },
+  "Road tunnel/Rectangle hexagon red white/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Rectangle blue white/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 0
+  },
+  "Road/Hexagon white black/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Hexagon white black (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road/Shield green white/5": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 230
+  },
+  "Road tunnel/Hexagon blue white (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Pentagon inverse white black/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 392
+  },
+  "Road tunnel/Pentagon yellow black/1": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Pentagon green yellow/3": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road tunnel/Rectangle red white/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 336
+  },
+  "Road/U-shaped blue white (Alt)/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Rectangle green white/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road tunnel/Rectangle hexagon brown white/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road/Rectangle white black/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 138
+  },
+  "Road tunnel/Rectangle green yellow (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road tunnel/Shield red white (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Hexagon blue white/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/Pentagon yellow black (Alt)/2": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road/Pentagon white black (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road tunnel/Shield white black/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Octagon green white/2": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road tunnel/Shield blue white (Alt)/4": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 114
+  },
+  "Road tunnel/Shield green white (Alt)/1": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road/Shield red white (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Rectangle hexagon red white (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Pentagon yellow black/5": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 382
+  },
+  "Road/V-shaped white black (Alt)/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 346
+  },
+  "Road/Rectangle green yellow (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road tunnel/Rectangle hexagon blue white/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Shield blue white (Alt)/1": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/U-shaped white black/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/Rectangle hexagon blue white (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/U-shaped white green/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road tunnel/Pentagon inverse white black/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 346
+  },
+  "Road tunnel/Rectangle white black (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 178
+  },
+  "Road tunnel/Hexagon orange black/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/Hexagon white black/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Rectangle hexagon blue white/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road/Hexagon white black/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Rectangle green white (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/Hexagon green white (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Stacked rectangle white black (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 200
+  },
+  "Road tunnel/Shield white black (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 178
+  },
+  "Road tunnel/Stacked rectangle white black (Alt)/3": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 384
+  },
+  "Road tunnel/Octagon green white (Alt)/1": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road/Stacked rectangle white black/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 200
+  },
+  "Road tunnel/Rectangle red white/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 66
+  },
+  "Road tunnel/Pentagon blue white (Alt)/6": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 50,
+    "x": 296
+  },
+  "Road/Rectangle hexagon blue white/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road/Pentagon inverse white black/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road tunnel/Rectangle green white (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road/Octagon green white (Alt)/4": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 262
+  },
+  "Road tunnel/V-shaped white black/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 380
+  },
+  "Road tunnel/Rectangle green white/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road tunnel/Rectangle green yellow (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road/Pentagon green white (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 0
+  },
+  "Road tunnel/Hexagon green white (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road tunnel/Rectangle hexagon red white (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Rectangle yellow black/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road/Rectangle hexagon blue white/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road/Hexagon red white (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Rectangle red white (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road/U-shaped yellow black/4": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 338
+  },
+  "Road tunnel/Stacked rectangle white black (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 200
+  },
+  "Road/Rectangle white black/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 310
+  },
+  "Road/Rectangle green yellow/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road/U-shaped white black/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/Hexagon blue white (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Shield blue white (Alt)/3": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Pentagon blue white/1": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road/Rectangle green yellow (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/Octagon green white (Alt)/6": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 146
+  },
+  "Road/V-shaped white black/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road/Pentagon green yellow (Alt)/1": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road/Pentagon yellow black/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 0
+  },
+  "Road/Hexagon orange black/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/U-shaped yellow black/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 50,
+    "x": 220
+  },
+  "Road tunnel/Hexagon green white (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Stacked rectangle white black (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 106
+  },
+  "Road tunnel/Hexagon green white/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Pentagon green yellow (Alt)/5": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 138
+  },
+  "Road/Rectangle hexagon green white/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/Hexagon white black/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/Rectangle green white/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road/Pentagon blue white (Alt)/5": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 372
+  },
+  "Road tunnel/U-shaped green leaf (Alt)/1": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/Rectangle hexagon red white (Alt)/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road tunnel/Pentagon yellow black (Alt)/5": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 382
+  },
+  "Road tunnel/U-shaped yellow black (Alt)/5": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 296
+  },
+  "Road tunnel/Octagon green white/1": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road/Pentagon blue white (Alt)/4": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 414
+  },
+  "Road/Rectangle hexagon brown white (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/U-shaped yellow black/3": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road tunnel/Rectangle green yellow (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Point of interest/Bus station": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 16,
+    "x": 230
+  },
+  "Road/Hexagon red white (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/Pentagon yellow black (Alt)/1": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Pentagon white black/5": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 310
+  },
+  "Road/Shield green white/4": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 276
+  },
+  "Road tunnel/Stacked rectangle white black (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 0
+  },
+  "Road tunnel/Rectangle hexagon red white (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/Hexagon blue white (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road/Shield white black (Alt)/6": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 44,
+    "x": 110
+  },
+  "Road tunnel/V-shaped white black (Alt)/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 346
+  },
+  "Road/Hexagon green white (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/Rectangle white black/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 178
+  },
+  "Road/Rectangle hexagon brown white (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/U-shaped red white/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road tunnel/Pentagon blue white (Alt)/4": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 414
+  },
+  "Road tunnel/Rectangle hexagon blue white (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Rectangle hexagon red white (Alt)/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road tunnel/Shield red white/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Pentagon blue white/6": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 50,
+    "x": 296
+  },
+  "Road/Hexagon orange black (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/Shield blue white/5": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 74
+  },
+  "Road/Hexagon red white/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "City small scale": {
+    "y": 208,
+    "height": 6,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 6,
+    "x": 268
+  },
+  "Road tunnel/Hexagon blue white (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Rectangle hexagon blue white (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Shield white black/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Hexagon green white/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road tunnel/Rectangle hexagon green white (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Rectangle blue white/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 60
+  },
+  "Road/U-shaped blue white (Alt)/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/Pentagon green white (Alt)/6": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 312
+  },
+  "Road/U-shaped red white (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 130
+  },
+  "Road/Shield green white (Alt)/2": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road tunnel/U-shaped blue white (Alt)/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 26
+  },
+  "Road/Hexagon blue white/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Shield white black (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 216
+  },
+  "Road/Hexagon green white (Alt)/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road tunnel/Rectangle hexagon brown white/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/U-shaped red white (Alt)/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road tunnel/Pentagon green yellow/5": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 138
+  },
+  "Road/Rectangle red white/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 150
+  },
+  "Road tunnel/Shield white black/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Pentagon green yellow (Alt)/2": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road tunnel/Pentagon blue white/2": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road tunnel/Rectangle hexagon red white/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road/Rectangle white black (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 336
+  },
+  "Road tunnel/U-shaped yellow black/2": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road/Rectangle hexagon green white (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Rectangle hexagon red white/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road tunnel/Rectangle green white (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road tunnel/Hexagon orange black (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Shield green white/6": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 148
+  },
+  "Road/Pentagon inverse white black (Alt)/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road tunnel/Pentagon green white (Alt)/2": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Stacked rectangle white black (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 106
+  },
+  "Road/Rectangle green yellow (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road/Rectangle hexagon blue white/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/U-shaped red white/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 32
+  },
+  "Road/Rectangle hexagon brown white (Alt)/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road tunnel/Hexagon orange black (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Pentagon blue white (Alt)/6": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 50,
+    "x": 296
+  },
+  "Road/Stacked rectangle white black (Alt)/3": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 384
+  },
+  "Road tunnel/Rectangle green white/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road/Pentagon white black/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road/U-shaped green leaf (Alt)/6": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 0
+  },
+  "Road tunnel/Rectangle yellow black/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 284
+  },
+  "Road tunnel/Rectangle yellow black/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/Rectangle red white/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 196
+  },
+  "Road/Rectangle hexagon brown white/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Rectangle hexagon brown white (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Pentagon yellow black/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 0
+  },
+  "Road tunnel/Rectangle white black/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 120
+  },
+  "Road/Rectangle hexagon blue white (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/U-shaped red white/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road tunnel/U-shaped red white (Alt)/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 96
+  },
+  "Road/Rectangle hexagon blue white (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/Shield red white/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Hexagon green white (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Hexagon red white/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Shield red white/6": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 44,
+    "x": 110
+  },
+  "Road/Rectangle green white (Alt)/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road/Hexagon blue white (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Pentagon yellow black/6": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 312
+  },
+  "Road/Rectangle white black (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 138
+  },
+  "Railroad": {
+    "y": 208,
+    "height": 8,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 2,
+    "x": 264
+  },
+  "Road/Rectangle hexagon blue white/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road/Hexagon white black/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/U-shaped yellow black (Alt)/3": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road tunnel/Rectangle hexagon red white/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road tunnel/Rectangle yellow black/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road/Rectangle hexagon green white/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/V-shaped white black/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 282
+  },
+  "Road tunnel/Hexagon orange black/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Rectangle blue white/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 0
+  },
+  "Road tunnel/Pentagon green yellow (Alt)/2": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 110
+  },
+  "Road/Shield green white (Alt)/3": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road/Rectangle red white (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road/Rectangle green white/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 302
+  },
+  "Road/Rectangle hexagon red white (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Pentagon white black/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road/Pentagon white black/4": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 342
+  },
+  "Road tunnel/U-shaped green leaf/2": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Rectangle green white (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road/Rectangle hexagon blue white (Alt)/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road/Pentagon blue white (Alt)/3": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road tunnel/Rectangle white black (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 120
+  },
+  "Road/Shield green white/6": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 148
+  },
+  "Road/Hexagon blue white (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Rectangle hexagon brown white (Alt)/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road/Pentagon yellow black (Alt)/5": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 382
+  },
+  "Road tunnel/Shield green white (Alt)/5": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 230
+  },
+  "Road/Rectangle hexagon brown white/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road/Shield blue white/4": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 114
+  },
+  "Road/Shield blue white/1": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/Shield red white/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Hexagon orange black/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road tunnel/Shield green white/1": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road/Hexagon orange black (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/U-shaped blue white/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 372
+  },
+  "Road tunnel/Pentagon green yellow (Alt)/6": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 56
+  },
+  "Road/Pentagon blue white/4": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 414
+  },
+  "Road/Rectangle green white/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/Pentagon inverse white black/6": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 264
+  },
+  "Road tunnel/Stacked rectangle white black/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 0
+  },
+  "Road/Octagon green white/3": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road tunnel/Pentagon inverse white black (Alt)/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road tunnel/Shield green white (Alt)/2": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road/Pentagon inverse white black (Alt)/6": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 264
+  },
+  "Road tunnel/Rectangle red white/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 370
+  },
+  "Road tunnel/Rectangle hexagon green white (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Shield white black (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Rectangle hexagon brown white (Alt)/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road/U-shaped white green (Alt)/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road/Hexagon red white/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Pentagon green yellow/5": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 138
+  },
+  "Road tunnel/Rectangle green yellow/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/Pentagon inverse white black (Alt)/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 346
+  },
+  "Road/Rectangle red white/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 152
+  },
+  "Road tunnel/Pentagon inverse white black (Alt)/6": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 264
+  },
+  "Road tunnel/Rectangle hexagon red white/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Rectangle white black (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 138
+  },
+  "Road/Shield red white/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/U-shaped green leaf (Alt)/4": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 114
+  },
+  "Road/Pentagon yellow black (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 0
+  },
+  "Road/Shield blue white/6": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 48,
+    "x": 0
+  },
+  "Road tunnel/U-shaped green leaf (Alt)/2": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road tunnel/Shield white black/6": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 44,
+    "x": 110
+  },
+  "Road tunnel/Hexagon white black/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/U-shaped yellow black (Alt)/2": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road/U-shaped blue white (Alt)/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Rectangle hexagon brown white/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Rectangle yellow black (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 196
+  },
+  "Road tunnel/Pentagon inverse white black/4": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 392
+  },
+  "Road tunnel/Rectangle red white (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/V-shaped white black/6": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 282
+  },
+  "Road tunnel/U-shaped white black/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Shield red white (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 178
+  },
+  "Road tunnel/Rectangle green yellow (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Water line large scale/Canal or ditch": {
+    "y": 208,
+    "height": 6,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 2,
+    "x": 266
+  },
+  "Road/Rectangle blue white/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 268
+  },
+  "Road tunnel/Hexagon red white/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Rectangle hexagon green white/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road/U-shaped yellow black (Alt)/5": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 296
+  },
+  "Road/Pentagon green white (Alt)/5": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 382
+  },
+  "Road/Pentagon green white/3": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 358
+  },
+  "Road tunnel/Rectangle white black/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 138
+  },
+  "Road tunnel/Rectangle green yellow/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/Pentagon yellow black (Alt)/6": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 312
+  },
+  "Road tunnel/Rectangle hexagon blue white (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/U-shaped yellow black (Alt)/3": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road tunnel/U-shaped green leaf/4": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 114
+  },
+  "Road/Hexagon red white/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Hexagon green white (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Rectangle hexagon green white/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Pentagon green yellow (Alt)/4": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 184
+  },
+  "Road tunnel/Rectangle hexagon red white (Alt)/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Rectangle red white/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 370
+  },
+  "Road tunnel/Pentagon white black (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 248
+  },
+  "Road tunnel/V-shaped white black (Alt)/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road tunnel/Shield blue white (Alt)/5": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 74
+  },
+  "Road tunnel/Shield white black/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 216
+  },
+  "Exit/Default/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 30
+  },
+  "Road tunnel/Stacked rectangle white black (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 82
+  },
+  "Water area/Lake or river intermittent": {
+    "y": 0,
+    "height": 56,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 56,
+    "x": 0
+  },
+  "Road tunnel/U-shaped green leaf (Alt)/5": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 74
+  },
+  "Road/Pentagon inverse white black/6": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 264
+  },
+  "Road/Rectangle red white (Alt)/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 22
+  },
+  "Road tunnel/Rectangle hexagon green white/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Rectangle green yellow/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road/Pentagon blue white/5": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 372
+  },
+  "Road/Rectangle white black/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 44
+  },
+  "Road tunnel/U-shaped white green/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 220
+  },
+  "Road tunnel/Hexagon blue white/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Stacked rectangle white black/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 106
+  },
+  "Road/Rectangle blue white (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 68
+  },
+  "Road/Rectangle green white (Alt)/5": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 90
+  },
+  "Road tunnel/U-shaped green leaf/5": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 74
+  },
+  "Road tunnel/U-shaped red white (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 130
+  },
+  "Road/Hexagon blue white (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Shield white black (Alt)/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Rectangle white black/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 310
+  },
+  "Road tunnel/Rectangle hexagon brown white (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/U-shaped red white (Alt)/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road/Octagon green white/1": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 194
+  },
+  "Road tunnel/Pentagon green white (Alt)/5": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 382
+  },
+  "Road tunnel/Pentagon white black/3": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Water line/Canal or ditch": {
+    "y": 208,
+    "height": 8,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 4,
+    "x": 260
+  },
+  "Road tunnel/Rectangle red white (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/Shield green white (Alt)/4": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 276
+  },
+  "Road tunnel/U-shaped yellow black (Alt)/1": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 270
+  },
+  "Road/Shield blue white (Alt)/4": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 114
+  },
+  "Road tunnel/Shield red white (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 178
+  },
+  "Road/V-shaped white black (Alt)/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road tunnel/Rectangle green yellow/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road/Pentagon inverse white black/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road/Rectangle hexagon green white (Alt)/2": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Rectangle hexagon green white/4": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 30,
+    "x": 38
+  },
+  "Road/Hexagon white black/6": {
+    "y": 132,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 52,
+    "x": 410
+  },
+  "Road/U-shaped red white (Alt)/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road/Pentagon inverse white black/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 346
+  },
+  "Road/Hexagon green white/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Hexagon orange black (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/Pentagon blue white/3": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 346
+  },
+  "Road tunnel/Pentagon green white/6": {
+    "y": 108,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 312
+  },
+  "Road tunnel/Octagon green white/4": {
+    "y": 82,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 262
+  },
+  "Road tunnel/Rectangle red white (Alt)/1": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 14,
+    "x": 124
+  },
+  "Road/U-shaped blue white/3": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/V-shaped white black (Alt)/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road tunnel/Shield red white (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 216
+  },
+  "Road tunnel/Hexagon blue white/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/U-shaped red white/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road tunnel/U-shaped white green (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 254
+  },
+  "Road tunnel/Rectangle white black/6": {
+    "y": 174,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 336
+  },
+  "Road/Shield red white (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 216
+  },
+  "Road tunnel/U-shaped red white/5": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 96
+  },
+  "Road tunnel/U-shaped white black/5": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 40,
+    "x": 26
+  },
+  "Road tunnel/U-shaped blue white/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/Hexagon red white/1": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road tunnel/Pentagon white black (Alt)/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road/Pentagon blue white/6": {
+    "y": 82,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 50,
+    "x": 296
+  },
+  "Road/Stacked rectangle white black/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 206
+  },
+  "Road/Hexagon red white (Alt)/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/V-shaped white black/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 324
+  },
+  "Road tunnel/U-shaped white black (Alt)/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Shield white black/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road/Shield blue white (Alt)/2": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 48
+  },
+  "Road/Rectangle hexagon blue white/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road/Rectangle hexagon red white (Alt)/5": {
+    "y": 174,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 38,
+    "x": 0
+  },
+  "Road tunnel/Shield green white/5": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 230
+  },
+  "Road/Rectangle red white/3": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 66
+  },
+  "Road tunnel/Shield green white (Alt)/3": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 202
+  },
+  "Road tunnel/Hexagon red white (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/U-shaped blue white (Alt)/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road tunnel/U-shaped white green (Alt)/3": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road tunnel/Pentagon white black/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 288
+  },
+  "Road tunnel/Hexagon orange black (Alt)/4": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 36,
+    "x": 74
+  },
+  "Road/U-shaped red white (Alt)/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 74
+  },
+  "Road tunnel/Rectangle green yellow (Alt)/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/U-shaped white green (Alt)/1": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road tunnel/Hexagon green white (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/Pentagon inverse white black/1": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 318
+  },
+  "Road tunnel/Hexagon green white/2": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 28,
+    "x": 0
+  },
+  "Road/Rectangle green yellow/2": {
+    "y": 208,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 18,
+    "x": 160
+  },
+  "Road tunnel/Shield red white (Alt)/3": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 154
+  },
+  "Road tunnel/Stacked rectangle white black/3": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 384
+  },
+  "Road/U-shaped yellow black/5": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 42,
+    "x": 296
+  },
+  "Road/U-shaped blue white/2": {
+    "y": 56,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 0
+  },
+  "Road/Rectangle hexagon red white/1": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 24,
+    "x": 416
+  },
+  "Road tunnel/Hexagon orange black (Alt)/5": {
+    "y": 154,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 28
+  },
+  "Road tunnel/U-shaped yellow black (Alt)/4": {
+    "y": 0,
+    "height": 26,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 34,
+    "x": 338
+  },
+  "Exit/Default/3": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 406
+  },
+  "Road/Shield green white (Alt)/6": {
+    "y": 108,
+    "height": 24,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 54,
+    "x": 148
+  },
+  "Road tunnel/Rectangle hexagon blue white (Alt)/6": {
+    "y": 154,
+    "height": 18,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 46,
+    "x": 370
+  },
+  "Road tunnel/Pentagon yellow black (Alt)/4": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 32,
+    "x": 0
+  },
+  "Road tunnel/U-shaped white green/2": {
+    "y": 132,
+    "height": 22,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 22,
+    "x": 198
+  },
+  "Road tunnel/Rectangle blue white (Alt)/4": {
+    "y": 192,
+    "height": 16,
+    "pixelRatio": 1,
+    "sdf": false,
+    "width": 26,
+    "x": 180
+  }
+}

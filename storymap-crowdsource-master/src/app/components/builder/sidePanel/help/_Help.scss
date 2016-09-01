@@ -1,0 +1,19 @@
+.side-panel.help {
+
+  .close-button-wrapper {
+    display: none;
+  }
+
+  &:hover .close-button-wrapper{
+    display: block;
+  }
+
+  h6 {
+    font-style: italic;
+    margin-bottom: 6px;
+  }
+
+  .question-wrapper {
+    margin-top: 18px;
+  }
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=7, IE=9"/>
+    <meta name="viewport" content="width=device-width,user-scalable=no"/>
+    <!--The viewport meta tag is used to improve the presentation and behavior of the samples
+      on iOS devices-->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no"/>
+    <title>Dynamic Segmentation SOE Utility - Test</title>
+
+    <link rel="stylesheet" type="text/css"
+          href="http://serverapi.arcgisonline.com/jsapi/arcgis/2.8/js/dojo/dijit/themes/claro/claro.css">
+    <link rel="stylesheet" type="text/css"
+          href="http://serverapi.arcgisonline.com/jsapi/arcgis/2.8/js/dojo/dojox/widget/Toaster/Toaster.css"/>
+
+    <link rel="stylesheet" type="text/css" href="css/layout.css"/>
+    <link rel="stylesheet" type="text/css" href="css/button.css"/>
+    <script type="text/javascript">
+        dojoConfig = {
+            parseOnLoad:true
+        }
+    </script>
+
+    <script type="text/javascript" src="http://serverapi.arcgisonline.com/jsapi/arcgis/?v=2.8"></script>
+    <script type="text/javascript" src="js/require.js"></script>
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/helper.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body class="claro">
+<div id="mainWindow" data-dojo-type="dijit.layout.BorderContainer" data-dojo-props="design:'headline'"
+     style="width:100%; height:100%;">
+    <div id="header" data-dojo-type="dijit.layout.ContentPane" data-dojo-props="region:'top'"
+         style="height:45px;text-align:left;font-weight:bold;font-size:14px;color:#400D12;overflow:hidden;">
+        <div>
+            <button id="btnIdentifyLocation" type="button"></button>
+            <button id="btnPointLocation" type="button"></button>
+            <button id="btnLineLocation" type="button"></button>
+            <input id='measure'/>
+            <input id='toMeasure'/>
+            <input id='routeId'/>
+            <input id='lateralOffset'/>
+            <button id="btnVideoLocation" type="button"></button>
+        </div>
+    </div>
+    <div id="map" data-dojo-type="dijit.layout.ContentPane" style="border:solid 2px #587498;margin:5px;"
+         data-dojo-props="region:'center'">
+    </div>
+</div>
+<div dojotype="dojox.widget.Toaster" id="msgToaster" positiondirection="br-left"
+     messagetopic="msgTopic">
+</div>
+
+<div id="dlgVideo" dojoType="dijit.Dialog" title="Video IdRoute=170" class="nonModal">
+    <video id="video" height ="350" width="400" preload ="auto" controls>
+        <source src="videos/170.mp4" type="video/mp4" />
+        <source src="videos/170.webm" type="video/webm" />
+        <source src="videos/170.ogv" type="video/ogg" />
+        <p>Your browser does not support HTML5 video.</p>
+    </video>
+</div>
+
+</body>
+</html>

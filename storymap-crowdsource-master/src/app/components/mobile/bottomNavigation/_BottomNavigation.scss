@@ -1,0 +1,46 @@
+.bottom-navigation {
+  position: absolute;
+  bottom: 0;
+  display: none;
+  align-items: center;
+  justify-content: space-around;
+  height: $mobileBottomNavigationHeight;
+  width: 100%;
+  z-index: 300;
+  @include animation(slideInBottomNavigation 2s);
+
+  button {
+    opacity: 0.4;
+    cursor: pointer;
+    outline: none;
+
+    &.active {
+      opacity: 1;
+    }
+
+    .icon {
+      font-size: 1.25em;
+    }
+
+    .name {
+      margin: 0;
+      margin-top: -0.7em;
+      line-height: 1;
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .bottom-navigation {
+    display: flex;
+  }
+}
+
+@include keyframes(slideInBottomNavigation) {
+  0% {
+    bottom: -$mobileBottomNavigationHeight;
+  }
+  100% {
+    bottom: 0;
+  }
+};
