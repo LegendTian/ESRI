@@ -107,8 +107,9 @@ define([
 
       // Show/hide panels
 
-      query(this.navbarSelector).on("click", lang.hitch(this, funcContext)); 
-
+      query(this.navbarSelector).on("click", lang.hitch(this, funcContext));
+      query("#tool-container a").on("click", lang.hitch(this, funcContext));
+      query("#sole-input").on("click", lang.hitch(this, funcContext));
       //----------------------------------
       // Toggle navbar hidden
       //----------------------------------

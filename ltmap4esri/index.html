@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
   <meta name="description" content="Calcite Maps Demo - ArcGIS">
   <meta name="author" content="">
-  <link rel="icon" href="http://www.esri.com/favicon.ico">
+  <link rel="icon" href="http://www.xiangis.com/favicon.ico">
   <title>在线地图</title>
 
   <!-- Calcite Bootstrap -->
@@ -57,7 +57,10 @@
   <!-- Navbar -->
 
   <nav class="navbar calcite-navbar navbar-fixed-top calcite-text-light calcite-bg-dark calcite-bgcolor-dark-purple">
-    <!-- Menu -->
+
+      <!-- Menu -->
+
+
     <div class="dropdown calcite-dropdown calcite-bg-light calcite-text-dark" role="presentation">
       <a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">
         <div class="calcite-dropdown-toggle">
@@ -68,8 +71,10 @@
           <span></span>
         </div>
       </a>
+
       <ul class="dropdown-menu">
-        <li><a role="button" data-target="#panelInfo" aria-haspopup="true"><span class="glyphicon glyphicon-info-sign"></span> Info</a></li>
+
+        <li><a role="button" data-target="#panelCity" aria-haspopup="true"><span class="glyphicon glyphicon-info-sign"></span> Info</a></li>
         <li><a class="visible-xs" role="button" data-target="#panelSearch" aria-haspopup="true"><span class="glyphicon glyphicon-search"></span> Search</a></li>
         <li><a role="button" data-target="#panelBasemaps" aria-haspopup="true"><span class="glyphicon glyphicon-th-large"></span> Basemaps</a></li>
         <li><a role="button" id="calciteToggleNavbar" aria-haspopup="true"><span class="glyphicon glyphicon-fullscreen"></span> Full Map</a></li>
@@ -85,7 +90,7 @@
     <ul class="calcite-nav nav navbar-nav">                    
       <li><div class="calcite-navbar-search hidden-xs"><div id="searchNavDiv"></div></div></li>
     </ul>
- 
+
   </nav><!--/.navbar -->
 
   <!-- Map Container  -->
@@ -95,12 +100,12 @@
 
     </div>
   </div><!-- /.container -->
-  <div class="calcite-panels calcite-panels-left calcite-bg-light calcite-text-dark ">
+  <div  class="calcite-panels calcite-panels-left calcite-bg-light calcite-text-dark lt-index4">
 
       <div id="searchbox" class="clearfix">
           <div id="searchbox-container">
               <div id="sole-searchbox-content" class="searchbox-content">
-                  <input id="sole-input" class="searchbox-content-common" type="text" name="word" autocomplete="off" maxlength="256" placeholder="搜地点、查管网、找站场" value="">
+                  <input id="sole-input" data-target="#panelSearching" aria-haspopup="true"  class="searchbox-content-common" type="text" name="word" autocomplete="off" maxlength="256" placeholder="搜地点、查管网、找站场" value="">
                   <div class="input-clear" title="清空"></div>
                   <div class="searchbox-content-button right-button route-button loading-button" data-title="路线">
                   </div>
@@ -109,6 +114,31 @@
           <button id="search-button" data-title="搜索"></button>
 
       </div>
+
+  </div>
+  <div id="app-left-top" class="calcite-panels calcite-panels-left calcite-bg-light calcite-text-dark ">
+
+      <div id="panelSearching" class="lt-mar39-t panel collapse ">
+
+          <div id="collapseSearching" class="panel-collapse collapse lt-pad6-t" role="tabpanel" aria-labelledby="headingCity">
+              <div class="search-type">
+                  <div class="row lt-pad6-b lt-mar0-x">
+                      <div role="button" class="col-md-4"><span class="glyphicon glyphicon-th-large lt-pad6-r"></span>站场</div>
+                      <div role="button" class="col-md-4"><span class="glyphicon glyphicon-th-large lt-pad6-r"></span>阀室</div>
+                      <div role="button" class="col-md-4"><span class="glyphicon glyphicon-th-large lt-pad6-r"></span>穿跨越</div>
+                  </div>
+                  <div style="border-top:1px solid #e0dede;padding-bottom:10px;"></div>
+                  <div class="row lt-pad6-b lt-mar0-x">
+                      <div role="button" class="col-md-2">塌陷</div>
+                      <div role="button" class="col-md-3">违章占压</div>
+                      <div role="button" class="col-md-3">水工保护</div>
+                      <div role="button" class="col-md-4">第三方施工</div>
+                  </div>
+              </div>
+              <div style="border-top:1px solid #CCC;padding-bottom:10px;"></div>
+          </div>
+      </div>
+
   </div>
   <div id="app-right-top" class="calcite-panels calcite-panels-right calcite-bg-light calcite-text-dark ">
     <div id="user-center" class="ui3-user-center-wrap" style="visibility: visible;">
@@ -116,11 +146,17 @@
     </div>
       <div id="tool-container" class="toolscontainer">
           <div class="ui3-control-wrap clearfixs" id="ui3_control_wrap">
-              <div class="citychangeopt ui3-city-change-wrap" id="ui3_city_change">
+              <div class=" citychangeopt ui3-city-change-wrap" id="lt_office_change">
                   <span class="adjustpadding"></span>
 
-                  <a href="#" map-on-click="selectCity" onclick="return false" class="ui3-city-change-inner ui3-control-shadow">
-                      <span>山西省</span><em></em>
+                  <a role="button" data-target="#panelOffice" aria-haspopup="true" class="ui3-city-change-inner ui3-control-shadow">
+                      <span ></span>山西煤层气集输有限公司<em></em>
+                  </a>
+              </div>
+              <div class=" citychangeopt ui3-city-change-wrap" id="ui3_city_change">
+
+                  <a role="button" data-target="#panelCity" aria-haspopup="true" class="ui3-city-change-inner ui3-control-shadow">
+                      <span ></span>山西省<em></em>
                   </a>
               </div>
               <div class="left float-l">
@@ -133,11 +169,232 @@
                       <span id="util_control" class="boxutils boxicon"></span>
                       <i class="boxtext">工具</i>
                       <em></em>
+
+                  </div>
+
+              </div>
+          </div>
+      </div>
+      <div id="panelOffice" class="panel collapse">
+          <div id="headingOffice" class="panel-heading" role="tab">
+              <div class="panel-title">
+                  <a class="panel-toggle" role="button" data-toggle="collapse" href="#collapseOffice"  aria-expanded="true" aria-controls="collapseInfo">
+                      <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                      <span class="panel-label">组织机构列表</span>
+                  </a>
+                  <a class="panel-close" role="button" data-toggle="collapse" data-target="#panelOffice">
+                      <span class="esri-icon esri-icon-close" aria-hidden="true"></span>
+                  </a>
+              </div>
+          </div>
+          <div id="collapseOffice" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOffice">
+              <div class="panel-body sel_city blueC">
+                  <div id="selOfficeHotCityId" class="sel-city-hotcity">
+                      <a href="javascript:void(0)" name="国新能源" style="font-weight:bold;margin-right:5px">国新能源</a>
+                      <a href="javascript:void(0)" officecode="131" name="山西煤层气集输有限公司" style="margin-right:5px;*margin-right:1px;">山西煤层气集输有限公司</a>
+                      <a href="javascript:void(0)" citycode="289" name="山西天然气有限公司" style="margin-right:5px;*margin-right:1px;">山西天然气有限公司</a>
+                      <a href="javascript:void(0)" citycode="257" name="晋中管理处" style="margin-right:5px;*margin-right:1px;">晋中管理处</a>
+                      <a href="javascript:void(0)" citycode="340" name="忻州管理处" style="margin-right:5px;*margin-right:1px;">忻州管理处</a>
+                      <a href="javascript:void(0)" citycode="75" name="晋北管理处" style="margin-right:5px;*margin-right:1px;">晋北管理处</a>
+                      <a href="javascript:void(0)" citycode="332" name="晋东管理处" style="margin-right:5px;*margin-right:1px;">晋东管理处</a>
+                      <a href="javascript:void(0)" citycode="315" name="晋南管理处" style="margin-right:5px;*margin-right:1px;">晋南管理处</a>
+                      </div>
+                  <div style="border-top:1px solid #CCC;padding-bottom:10px;"></div>
+                  <div id="selOfficeLetterListId" class="sel-city-letterbar">
+                      <a href="javascript:void(0)">C</a>
+                      <a href="javascript:void(0)">D</a>
+                      <a href="javascript:void(0)">J</a>
+                      <a href="javascript:void(0)">L</a>
+                      <a href="javascript:void(0)">T</a>
+                      <a href="javascript:void(0)">X</a>
+                      <a href="javascript:void(0)">Y</a>
+
+                  </div>
+                  <div style="border-top:1px solid #CCC;padding-bottom:10px;"></div>
+                  <div id="selOfficePlaceListId" class="selCityPlaceList" style="width: 100%; height: 149px;">
+                      <table style="border-collapse:collapse;border-spacing:0;" cellpadding="0" cellspacing="0">
+                          <tbody>
+                          <tr>
+                              <td class="sel-city-td-letter"><div>C</div></td>
+                              <td class="sel-city-td-sf"><a href="javascript:void(0)">晋中管理处:</a></td>
+                              <td class="sel-city-td-item">
+                                  <a href="javascript:void(0)">太原站</a>
+                                  <a href="javascript:void(0)">清徐站</a>
+                                  <a href="javascript:void(0)">祁县站</a>
+                                  <a href="javascript:void(0)">灵石站</a>
+                                  <a href="javascript:void(0)">北姚站</a>
+                                  <a href="javascript:void(0)">大盂站</a>
+                                  <a href="javascript:void(0)">太谷门站</a>
+                                  <a href="javascript:void(0)">阳曲站</a>
+                                  <a href="javascript:void(0)">杨盘站</a>
+                                  <a href="javascript:void(0)">交城站</a>
+                                  <a href="javascript:void(0)">平遥站</a>
+                                  <a href="javascript:void(0)">孝义站</a>
+                                  <a href="javascript:void(0)">段纯站</a>
+
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3"><div class="sel-city-tr-splitline">C</div></td>
+                          </tr>
+                          <tr>
+                              <td class="sel-city-td-letter"><div>D</div></td>
+                              <td class="sel-city-td-sf"><a href="javascript:void(0)">大同:</a></td>
+                              <td class="sel-city-td-item">
+                                  <a href="javascript:void(0)">城区</a>
+                                  <a href="javascript:void(0)">矿区</a>
+                                  <a href="javascript:void(0)">南郊区</a>
+                                  <a href="javascript:void(0)">新荣区</a>
+                                  <a href="javascript:void(0)">阳高县</a>
+                                  <a href="javascript:void(0)">天镇县</a>
+                                  <a href="javascript:void(0)">广灵县</a>
+                                  <a href="javascript:void(0)">灵丘县</a>
+                                  <a href="javascript:void(0)">浑源县</a>
+                                  <a href="javascript:void(0)">左云县</a>
+                                  <a href="javascript:void(0)">大同县</a>
+
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3"><div class="sel-city-tr-splitline">C</div></td>
+                          </tr>
+                          <tr>
+                              <td class="sel-city-td-letter"><div>T</div></td>
+                              <td class="sel-city-td-sf"><a href="javascript:void(0)">太原:</a></td>
+                              <td class="sel-city-td-item">
+                                  <a href="javascript:void(0)">小店</a>
+                                  <a href="javascript:void(0)">迎泽</a>
+                                  <a href="javascript:void(0)">尖草坪</a>
+                                  <a href="javascript:void(0)">万柏林</a>
+                                  <a href="javascript:void(0)">晋源</a>
+                                  <a href="javascript:void(0)">古交</a>
+                                  <a href="javascript:void(0)">阳曲</a>
+                                  <a href="javascript:void(0)">清徐</a>
+
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3"><div class="sel-city-tr-splitline">T</div></td>
+                          </tr>
+
+                          </tbody>
+                      </table>
                   </div>
               </div>
           </div>
       </div>
 
+      <div id="panelCity" class="panel collapse">
+          <div id="headingCity" class="panel-heading" role="tab">
+              <div class="panel-title">
+                  <a class="panel-toggle" role="button" data-toggle="collapse" href="#collapseCity"  aria-expanded="true" aria-controls="collapseInfo">
+                      <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                      <span class="panel-label">城市列表</span>
+                  </a>
+                  <a class="panel-close" role="button" data-toggle="collapse" data-target="#panelCity">
+                      <span class="esri-icon esri-icon-close" aria-hidden="true"></span>
+                  </a>
+              </div>
+          </div>
+          <div id="collapseCity" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingCity">
+              <div class="panel-body sel_city blueC">
+                  <div id="selCityHotCityId" class="sel-city-hotcity"><a href="javascript:void(0)" name="山西" style="font-weight:bold;margin-right:5px">山西</a>
+                      <a href="javascript:void(0)" citycode="131" name="太原" style="margin-right:5px;*margin-right:1px;">太原</a>
+                      <a href="javascript:void(0)" citycode="289" name="大同" style="margin-right:5px;*margin-right:1px;">大同</a>
+                      <a href="javascript:void(0)" citycode="257" name="晋中" style="margin-right:5px;*margin-right:1px;">晋中</a>
+                      <a href="javascript:void(0)" citycode="340" name="长治" style="margin-right:5px;*margin-right:1px;">长治</a>
+                      <a href="javascript:void(0)" citycode="75" name="晋城" style="margin-right:5px;*margin-right:1px;">晋城</a>
+                      <a href="javascript:void(0)" citycode="332" name="朔州" style="margin-right:5px;*margin-right:1px;">朔州</a>
+                      <a href="javascript:void(0)" citycode="315" name="忻州" style="margin-right:5px;*margin-right:1px;">忻州</a>
+                      <a href="javascript:void(0)" citycode="179" name="运城" style="margin-right:5px;*margin-right:1px;">运城</a>
+                      <a href="javascript:void(0)" citycode="218" name="临汾" style="margin-right:5px;*margin-right:1px;">临汾</a>
+                      <a href="javascript:void(0)" citycode="132" name="吕梁" style="margin-right:5px;*margin-right:1px;">吕梁</a>
+                      <a href="javascript:void(0)" citycode="132" name="阳泉" style="margin-right:5px;*margin-right:1px;">阳泉</a>
+                  </div>
+                  <div style="border-top:1px solid #CCC;padding-bottom:10px;"></div>
+                  <div id="selCityLetterListId" class="sel-city-letterbar">
+                      <a href="javascript:void(0)">C</a>
+                      <a href="javascript:void(0)">D</a>
+                      <a href="javascript:void(0)">J</a>
+                      <a href="javascript:void(0)">L</a>
+                      <a href="javascript:void(0)">T</a>
+                      <a href="javascript:void(0)">X</a>
+                      <a href="javascript:void(0)">Y</a>
+
+                  </div>
+                  <div style="border-top:1px solid #CCC;padding-bottom:10px;"></div>
+                  <div id="selCityPlaceListId" class="selCityPlaceList" style="width: 100%; height: 149px;">
+                      <table style="border-collapse:collapse;border-spacing:0;" cellpadding="0" cellspacing="0">
+                          <tbody>
+                          <tr>
+                              <td class="sel-city-td-letter"><div>C</div></td>
+                              <td class="sel-city-td-sf"><a href="javascript:void(0)">长治:</a></td>
+                              <td class="sel-city-td-item">
+                                  <a href="javascript:void(0)">城区</a>
+                                  <a href="javascript:void(0)">郊区</a>
+                                  <a href="javascript:void(0)">潞城市</a>
+                                  <a href="javascript:void(0)">长治县</a>
+                                  <a href="javascript:void(0)">襄垣县</a>
+                                  <a href="javascript:void(0)">屯留县</a>
+                                  <a href="javascript:void(0)">平顺县</a>
+                                  <a href="javascript:void(0)">黎城县</a>
+                                  <a href="javascript:void(0)">壶关县</a>
+                                  <a href="javascript:void(0)">长子县</a>
+                                  <a href="javascript:void(0)">武乡县</a>
+                                  <a href="javascript:void(0)">沁县</a>
+                                  <a href="javascript:void(0)">沁源县</a>
+
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3"><div class="sel-city-tr-splitline">C</div></td>
+                          </tr>
+                          <tr>
+                              <td class="sel-city-td-letter"><div>D</div></td>
+                              <td class="sel-city-td-sf"><a href="javascript:void(0)">大同:</a></td>
+                              <td class="sel-city-td-item">
+                                  <a href="javascript:void(0)">城区</a>
+                                  <a href="javascript:void(0)">矿区</a>
+                                  <a href="javascript:void(0)">南郊区</a>
+                                  <a href="javascript:void(0)">新荣区</a>
+                                  <a href="javascript:void(0)">阳高县</a>
+                                  <a href="javascript:void(0)">天镇县</a>
+                                  <a href="javascript:void(0)">广灵县</a>
+                                  <a href="javascript:void(0)">灵丘县</a>
+                                  <a href="javascript:void(0)">浑源县</a>
+                                  <a href="javascript:void(0)">左云县</a>
+                                  <a href="javascript:void(0)">大同县</a>
+
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3"><div class="sel-city-tr-splitline">C</div></td>
+                          </tr>
+                          <tr>
+                              <td class="sel-city-td-letter"><div>T</div></td>
+                              <td class="sel-city-td-sf"><a href="javascript:void(0)">太原:</a></td>
+                              <td class="sel-city-td-item">
+                                  <a href="javascript:void(0)">小店</a>
+                                  <a href="javascript:void(0)">迎泽</a>
+                                  <a href="javascript:void(0)">尖草坪</a>
+                                  <a href="javascript:void(0)">万柏林</a>
+                                  <a href="javascript:void(0)">晋源</a>
+                                  <a href="javascript:void(0)">古交</a>
+                                  <a href="javascript:void(0)">阳曲</a>
+                                  <a href="javascript:void(0)">清徐</a>
+
+                              </td>
+                          </tr>
+                          <tr>
+                              <td colspan="3"><div class="sel-city-tr-splitline">T</div></td>
+                          </tr>
+
+                          </tbody>
+                      </table>
+                  </div>
+              </div>
+          </div>
+      </div>
   </div>
   <!-- Panel -->
 
