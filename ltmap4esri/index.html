@@ -150,7 +150,7 @@
                   <span class="adjustpadding"></span>
 
                   <a role="button" data-target="#panelOffice" aria-haspopup="true" class="ui3-city-change-inner ui3-control-shadow">
-                      <span ></span>山西煤层气集输有限公司<em></em>
+                      <span ></span>山西天然气有限公司<em></em>
                   </a>
               </div>
               <div class=" citychangeopt ui3-city-change-wrap" id="ui3_city_change">
@@ -161,20 +161,54 @@
               </div>
               <div class="left float-l">
                   <b class="tool-gap"></b>
-                  <div class="trafficopt" map-on-click="traffic">
-                      <span id="traffic_control" class="last traffic"></span><i>标绘</i>
-                  </div>
-                  <b></b>
-                  <div class="boxopt" map-on-click="box">
-                      <span id="util_control" class="boxutils boxicon"></span>
-                      <i class="boxtext">工具</i>
-                      <em></em>
+                  <div class="trafficopt" >
+                      <a role="button" data-target="#panelPlot" aria-haspopup="true" class="ui3-city-change-inner ui3-control-shadow lt-pad0-r">
+                          <span id="traffic_control" class="last traffic"></span><i>标绘</i>
+                      </a>
 
                   </div>
+                  <b></b>
+                  <div class="boxopt dropdown" map-on-click="box">
+                      <a role="button" id="dropdownMenu1" class=" dropdown-toggle ui3-city-change-inner ui3-control-shadow"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                          <span id="util_control" class="boxutils boxicon"></span>
+                          <i class="boxtext">工具</i>
+                          <em></em>
+                      </a>
+                      <ul class="dropdown-menu " aria-labelledby="dropdownMenu1">
+                          <li><a href="#">横断面</a></li>
+                          <li><a href="#">测量</a></li>
+                          <li role="separator" class="divider"></li>
+                          <li><a href="#">收藏</a></li>
+                          <li><a href="#">分享</a></li>
+                      </ul>
+
+                  </div>
+                  <!--<div  class="boxopt dropdown" >
+
+
+                      <a role="button" id="dropdownMenu1" class=" dropdown-toggle"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                          <span id="util_control" class="boxutils boxicon "></span>
+                          工具
+                          <em></em>
+
+                      </a>
+
+                      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                          <li><a href="#">Action</a></li>
+                          <li><a href="#">Another action</a></li>
+                          <li><a href="#">Something else here</a></li>
+                          <li role="separator" class="divider"></li>
+                          <li><a href="#">Separated link</a></li>
+                      </ul>
+
+                  </div>-->
 
               </div>
           </div>
       </div>
+
+  </div>
+  <div id="lt-right-top-panel" class="calcite-panels calcite-panels-right calcite-bg-light calcite-text-dark ">
       <div id="panelOffice" class="panel collapse">
           <div id="headingOffice" class="panel-heading" role="tab">
               <div class="panel-title">
@@ -189,6 +223,27 @@
           </div>
           <div id="collapseOffice" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOffice">
               <div class="panel-body sel_city blueC">
+                  <div id="stationSeriesDiv " class="lt-pad6-b">
+                      <!--<div class="station-series lt-pad6-b">
+                          <span >清徐-太谷管理段</span>
+                            <div>
+                              <input style="width: 47%;" type="text" class="lt-text-center" placeholder="起始里程"> —
+                              <input style="width: 47%;" type="text" class="lt-text-center" placeholder="终止里程">
+                            </div>
+                      </div>
+
+                      <div class="station-series lt-pad6-b">
+                          <span >清徐站管理段</span>
+                          <div>
+                          <input style="width: 47%;" type="text" class="lt-text-center" placeholder="起始里程"> —
+                          <input style="width: 47%;" type="text" class="lt-text-center" placeholder="终止里程">
+                          </div>
+                      </div>-->
+                      <input style="width: 47%;" type="text" class="lt-text-center" placeholder="起始里程"> —
+                      <input style="width: 47%;" type="text" class="lt-text-center" placeholder="终止里程">
+                  </div>
+
+                  <div style="border-top:1px solid #CCC;padding-bottom:10px;"></div>
                   <div id="selOfficeHotCityId" class="sel-city-hotcity">
                       <a href="javascript:void(0)" name="国新能源" style="font-weight:bold;margin-right:5px">国新能源</a>
                       <a href="javascript:void(0)" officecode="131" name="山西煤层气集输有限公司" style="margin-right:5px;*margin-right:1px;">山西煤层气集输有限公司</a>
@@ -198,7 +253,7 @@
                       <a href="javascript:void(0)" citycode="75" name="晋北管理处" style="margin-right:5px;*margin-right:1px;">晋北管理处</a>
                       <a href="javascript:void(0)" citycode="332" name="晋东管理处" style="margin-right:5px;*margin-right:1px;">晋东管理处</a>
                       <a href="javascript:void(0)" citycode="315" name="晋南管理处" style="margin-right:5px;*margin-right:1px;">晋南管理处</a>
-                      </div>
+                  </div>
                   <div style="border-top:1px solid #CCC;padding-bottom:10px;"></div>
                   <div id="selOfficeLetterListId" class="sel-city-letterbar">
                       <a href="javascript:void(0)">C</a>
@@ -298,7 +353,8 @@
           </div>
           <div id="collapseCity" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingCity">
               <div class="panel-body sel_city blueC">
-                  <div id="selCityHotCityId" class="sel-city-hotcity"><a href="javascript:void(0)" name="山西" style="font-weight:bold;margin-right:5px">山西</a>
+                  <div id="selCityHotCityId" class="sel-city-hotcity">
+                      <a href="javascript:void(0)" name="山西" style="font-weight:bold;margin-right:5px">山西</a>
                       <a href="javascript:void(0)" citycode="131" name="太原" style="margin-right:5px;*margin-right:1px;">太原</a>
                       <a href="javascript:void(0)" citycode="289" name="大同" style="margin-right:5px;*margin-right:1px;">大同</a>
                       <a href="javascript:void(0)" citycode="257" name="晋中" style="margin-right:5px;*margin-right:1px;">晋中</a>
@@ -395,7 +451,72 @@
               </div>
           </div>
       </div>
+
+
+      <div id="panelPlot" class="panel collapse">
+          <div id="headingPlot" class="panel-heading" role="tab">
+              <div class="panel-title">
+                  <a class="panel-toggle" role="button" data-toggle="collapse" href="#collapsePlot"  aria-expanded="true" aria-controls="collapseInfo">
+                      <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                      <span class="panel-label">态势标绘</span>
+
+                  </a>
+                  <a class="panel-toggle btn " style="flex: 0.2;">
+                      <span class="" >保存</span>
+                  </a>
+                  <a class="panel-close" role="button" data-toggle="collapse" data-target="#panelPlot">
+                      <span class="esri-icon esri-icon-close" aria-hidden="true"></span>
+                  </a>
+              </div>
+          </div>
+          <div id="collapsePlot" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingPlot">
+              <div class="panel-body blueC">
+
+                  <div class="lt-pad6-b lt-text-center">
+                      <span class="">填充颜色</span>
+                      <a href="#" class="btn btn-default lt-mar6-r" id="cp1" style="width: 20px;height: 25px;background-color: #ccc955;border-color:transparent;"></a>
+                      <span class="" style="width: 5px"></span>
+                      <span class="">轮廓颜色</span>
+                      <a href="#" class="btn btn-default lt-mar6-r" id="cp2" style="width: 20px;height: 25px;background-color: #cc0e24;border-color:transparent;"></a>
+
+                  </div>
+                  <div style="border-top:1px solid #CCC;padding-bottom:10px;"></div>
+                  <div >
+                      <span class="">点：</span>
+                      <a href="" citycode="131" name="常规" style="margin-right:5px;*margin-right:1px;">常规</a>
+                      <a href="" citycode="289" name="救护车" style="margin-right:5px;*margin-right:1px;">救护车</a>
+                      <a href="" citycode="257" name="驻地" style="margin-right:5px;*margin-right:1px;">驻地</a>
+                      <a href="" citycode="340" name="更多" style="margin-right:5px;*margin-right:1px;">更多</a>
+
+                  </div>
+                  <div >
+                      <span class="">线：</span>
+                      <a href="" citycode="131" name="折线" style="margin-right:5px;*margin-right:1px;">折线</a>
+                      <a href="" citycode="289" name="自由线" style="margin-right:5px;*margin-right:1px;">自由线</a>
+
+                  </div>
+                  <div >
+                      <span class="">面：</span>
+                      <a href="" citycode="131" name="多边形" style="margin-right:5px;*margin-right:1px;">多边形</a>
+                      <a href="" citycode="289" name="手绘" style="margin-right:5px;*margin-right:1px;">手绘</a>
+                      <a href="" citycode="257" name="扇形" style="margin-right:5px;*margin-right:1px;">扇形</a>
+                      <a href="" citycode="340" name="集结地" style="margin-right:5px;*margin-right:1px;">集结地</a>
+                      <a href="" citycode="340" name="闭合曲面" style="margin-right:5px;*margin-right:1px;">闭合曲面</a>
+
+                  </div>
+                  <div >
+                      <span class="">箭头：</span>
+                      <a href="" citycode="131" name="简单" style="margin-right:5px;*margin-right:1px;">简单</a>
+                      <a href="" citycode="289" name="细直" style="margin-right:5px;*margin-right:1px;">细直</a>
+                      <a href="" citycode="257" name="燕尾" style="margin-right:5px;*margin-right:1px;">燕尾</a>
+                      <a href="" citycode="340" name="双箭头" style="margin-right:5px;*margin-right:1px;">双箭头</a>
+
+                  </div>
+              </div>
+          </div>
+      </div>
   </div>
+
   <!-- Panel -->
 
   <div class="calcite-panels calcite-panels-right calcite-bg-light calcite-text-dark panel-group" role="tablist" aria-multiselectable="true">
