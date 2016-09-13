@@ -63,7 +63,7 @@
 #sole-searchbox-content {
     position: relative;
 }
-#sole-searchbox-content #sole-input {
+#sole-searchbox-content #sole-input{
     box-sizing: border-box;
     border: 0;
     padding: 9px 0;
@@ -75,6 +75,9 @@
     color: #333;
     position: relative;
     border-radius: 2px 0 0 2px;
+}
+#startMInput,#endMInput{
+    text-align: center;
 }
 #toast-wrapper {
     pointer-events: auto;
@@ -115,6 +118,11 @@
 }
 #app-right-top , #app-left-top{
     z-index: 4;
+    position: absolute;
+    background-color: transparent;
+}
+#lt-right-top-panel{
+    z-index: 2;
     position: absolute;
     background-color: transparent;
 }
@@ -202,7 +210,7 @@
 .float-l {
     float: left;
 }
-.ui3-control-wrap .left b, .ui3-control-wrap .right b {
+.ui3-control-wrap .left b, .ui3-control-wrap .right b ,.lt-text-center b{
     float: left;
     height: 21px;
     display: inline-block;
@@ -224,6 +232,12 @@
 .ui3-control-wrap .traffic {
   background-position: 1px -114px;
 }
+.ui3-control-wrap .trafficopt:hover .traffic {
+    background-position:1px -49px
+}
+.ui3-control-wrap .trafficopt:hover i {
+    color:#579AFC
+}
 .ui3-control-wrap .left span, .ui3-control-wrap .right span {
     float: left;
     height: 34px;
@@ -241,7 +255,7 @@
     display: inline-block;
 }
 .ui3-control-wrap .boxopt {
-    padding-right: 12px;
+    //padding-right: 12px;
     line-height: 34px;
     float: left;
     cursor: pointer;
@@ -249,7 +263,7 @@
 }
 .ui3-control-wrap .boxutils {
     padding-right: 7px;
-    background-position: -34px -116px;
+    background-position: -40px -116px;
 }
 .ui3-control-wrap .boxopt em {
     width: 7px;
@@ -264,6 +278,37 @@
 .ui3-control-wrap .boxopt em.active {
     background-position: -12px -177px;
 }
+.ui3-control-wrap .boxopt:hover .boxutils {
+    background-position:-40px -48px
+}
+.ui3-control-wrap .boxopt:hover .boxtext {
+    color:#579AFC
+}
+.ui3-control-wrap .boxopt .dropdown-menu{
+    min-width: 80px;
+    font-size: 12px;
+    color: #4c4c4c;
+    /*position: absolute;
+    background: #fff;
+    box-shadow: 1px 2px 1px rgba(0,0,0,.15);
+    top: 34px;
+    right: 0;
+    float: left;
+    display: none;
+    z-index: 80000;*/
+}
+.ui3-control-wrap .boxopt .dropdown-menu li {
+    box-sizing: border-box;
+    width: 100%;
+    cursor: pointer;
+    //height: 34px;
+    line-height: 34px;
+    //padding-left: 7px;
+}
+.ui3-control-wrap .boxopt .dropdown-menu li a{
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
 /*.ui3-control-wrap .ui3-city-change-click .ui3-city-change-inner em, .ui3-control-wrap .ui3-city-change-click-close .ui3-city-change-inner em {
     background-position: -12px -177px;
 }*/
@@ -271,12 +316,19 @@
     border-top-color: #0C88E8;
 }
 
-
+.ui3-control-wrap .ui3-city-change-inner:hover {
+    text-decoration:none;
+    color:#3d6dcc
+}
+.blueC a:hover {
+    color:#3d6dcc;
+    text-decoration:underline
+}
 #panelSearching{
     background-color: #ffffff;
     width: 368px;
 }
-#panelCity,#panelOffice{
+#panelCity,#panelOffice,#panelPlot{
     margin-top: 50px;
     background-color: #f1f1f1;
 }
@@ -333,6 +385,9 @@
 .lt-pad6-r{
     padding-right: 6px;
 }
+.lt-pad0-r{
+    padding-right: 0px !important;
+}
 .lt-mar50-b{
     margin-bottom: 50px;
 }
@@ -359,8 +414,12 @@
 .lt-index4{
     z-index: 4;
 }
-
-
+.lt-text-center{
+    text-align: center;
+}
+.lt-mar6-r{
+    margin-right: 6px !important;
+}
 
 
 
