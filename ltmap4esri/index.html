@@ -10,7 +10,7 @@
   <title>在线地图</title>
 
   <!-- Calcite Bootstrap -->
-  <link rel="stylesheet" href="dist/css/calcite-bootstrap.min-v0.2.css">
+  <link rel="stylesheet" href="dist/css/calcite-bootstrap-v0.2.css">
 
   <!-- Calcite Maps -->
   <link rel="stylesheet" href="dist/css/calcite-maps-arcgis-3.x.min-v0.2.css"-->
@@ -141,7 +141,7 @@
 
   </div>
   <div id="app-right-top" class="calcite-panels calcite-panels-right calcite-bg-light calcite-text-dark ">
-    <div id="user-center" class="ui3-user-center-wrap" style="visibility: visible;">
+    <div id="user-center" class="ui3-user-center-wrap" style="visibility: visible;" data-target="#panelUC" aria-haspopup="true">
         <div class="avatar-abstract" style="background-image: url(images/user.jpg);"></div>
     </div>
       <div id="tool-container" class="toolscontainer">
@@ -461,7 +461,7 @@
                       <span class="panel-label">态势标绘</span>
 
                   </a>
-                  <a class="panel-toggle btn " style="flex: 0.2;">
+                  <a class="panel-toggle btn btn-guoxin" style="flex: 0.2;height: 30px;padding-top: 3px;margin-top: 4px;color: #e5e5e5;">
                       <span class="" >保存</span>
                   </a>
                   <a class="panel-close" role="button" data-toggle="collapse" data-target="#panelPlot">
@@ -511,6 +511,379 @@
                       <a href="" citycode="257" name="燕尾" style="margin-right:5px;*margin-right:1px;">燕尾</a>
                       <a href="" citycode="340" name="双箭头" style="margin-right:5px;*margin-right:1px;">双箭头</a>
 
+                  </div>
+              </div>
+          </div>
+      </div>
+
+      <div id="panelUC" class="panel collapse">
+          <div id="headingUC" class="panel-heading" role="tab">
+              <div class="panel-title">
+                  <a class="panel-toggle" role="button" data-toggle="collapse" href="#collapseUC"  aria-expanded="true" aria-controls="collapseInfo">
+                      <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                      <span class="panel-label">个人中心</span>
+
+                  </a>
+
+                  <a class="panel-close" role="button" data-toggle="collapse" data-target="#panelUC">
+                      <span class="esri-icon esri-icon-close" aria-hidden="true"></span>
+                  </a>
+              </div>
+          </div>
+          <div id="collapseUC" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingUC">
+              <div class="panel-body blueC detail-info-box">
+                  <div class="up-zone lt-mar-15-t lt-mar10-b">
+                      <div class="login-wrapper">
+                          <div class="left avatar" style="background-image:url(http://himg.bdimg.com/sys/portrait/item/01516d796c6f76653139393039392910.jpg)">
+                          </div>
+                          <div class="right user-info lt-mar-10-t">
+                              <div class="username text-overflow">LegendTian</div>
+                              <div class="associate-tip">
+                                  您暂未关联手机，在APP登录后可自动关联
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="">
+                  <ul class="nav nav-tabs" role="tablist">
+                      <li role="presentation" class="active"><a href="#myMap" aria-controls="myMap" role="tab" data-toggle="tab">我的地图</a></li>
+                      <li role="presentation"><a href="#myDraw" aria-controls="myDraw" role="tab" data-toggle="tab">我的标绘</a></li>
+                      <li role="presentation"><a href="#myCollect" aria-controls="myCollect" role="tab" data-toggle="tab">我的收藏</a></li>
+                      <li role="presentation"><a href="#myShare" aria-controls="myShare" role="tab" data-toggle="tab">我的分享</a></li>
+                  </ul>
+
+                  <div class="tab-content uc-content">
+                      <!-- Tab -myMap -->
+
+                      <div role="tabpanel" class="tab-pane active" id="myMap">
+                          <ul class="gb_ja gb_ca lt-pad22-l" aria-dropeffect="move">
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:0">
+                                  <a class="gb_O" data-pid="192" href="https://myaccount.google.com/?utm_source=OGB" id="gb192" data-ved="0EMEuCAMoAA">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1451px"></span>
+                                      <span class="gb_4">我的地图1</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:1">
+                                  <a class="gb_O" data-pid="1" href="https://www.google.com.sg/webhp?tab=lw&amp;ei=CgXeV_ieNorvvAShtoqQDA&amp;ved=0EKkuCAQoAQ" id="gb1">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:-17px -207px"></span>
+                                      <span class="gb_4">我的地图2</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:2">
+                                  <a class="gb_O" data-pid="8" href="https://maps.google.com.sg/maps?hl=zh-TW&amp;tab=ll&amp;ei=CgXeV_ieNorvvAShtoqQDA&amp;ved=0EKkuCAUoAg" id="gb8">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -450px"></span>
+                                      <span class="gb_4">地图</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:3">
+                                  <a class="gb_O" data-pid="36" href="https://www.youtube.com/?gl=SG" data-ved="0EMEuCAYoAw">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 0"></span>
+                                      <span class="gb_4">我的地图4</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:4">
+                                  <a class="gb_O" data-pid="78" href="https://play.google.com/?hl=zh-TW&amp;tab=l8" id="gb78" data-ved="0EMEuCAcoBA">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1779px"></span>
+                                      <span class="gb_4">我的地图5</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:5">
+                                  <a class="gb_O" data-pid="23" href="https://mail.google.com/mail/?tab=lm"  data-ved="0EMEuCAgoBQ">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1710px"></span>
+                                      <span class="gb_4">我的地图6</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:6">
+                                  <a class="gb_O" data-pid="49" href="https://drive.google.com/?tab=lo&amp;authuser=0" id="gb49" data-ved="0EMEuCAkoBg">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -138px"></span>
+                                      <span class="gb_4">我的地图</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:7">
+                                  <a class="gb_O" data-pid="24" href="https://www.google.com/calendar?tab=lc"  data-ved="0EMEuCAooBw">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -2059px"></span>
+                                      <span class="gb_4">我的地图</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:8">
+                                  <a class="gb_O" data-pid="119" href="https://plus.google.com/u/0/?gpsrc=ogpy0&amp;tab=lX" id="gb119" data-ved="0EMEuCAsoCA">
+                                      <div class="gb_8"></div><div class="gb_9"></div><div class="gb_aa"></div><div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -938px"></span>
+                                      <span class="gb_4">我的地图</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:9">
+                                  <a class="gb_O" data-pid="51" href="https://translate.google.com.sg/?hl=zh-TW&amp;tab=lT" id="gb51" data-ved="0EMEuCAwoCQ">
+                                      <div class="gb_8"></div><div class="gb_9"></div><div class="gb_aa"></div><div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -693px"></span>
+                                      <span class="gb_4">我的地图</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg11:a">
+                                  <a class="gb_O" data-pid="31" href="https://photos.google.com/?tab=lq"  data-ved="0EMEuCA0oCg">
+                                      <div class="gb_8"></div><div class="gb_9"></div><div class="gb_aa"></div><div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1145px"></span>
+                                      <span class="gb_4">相片</span>
+                                  </a>
+                              </li>
+                          </ul>
+                      </div>
+
+                      <!-- Tab -myDraw -->
+
+                      <div role="tabpanel" class="tab-pane active" id="myDraw">
+                          <ul class="gb_ja gb_ca lt-pad22-l" aria-dropeffect="move">
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:0">
+                                  <a class="gb_O" data-pid="192" href="https://myaccount.google.com/?utm_source=OGB" id="gb192" data-ved="0EMEuCAMoAA">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1451px"></span>
+                                      <span class="gb_4">我的标绘1</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:1">
+                                  <a class="gb_O" data-pid="1" href="https://www.google.com.sg/webhp?tab=lw&amp;ei=CgXeV_ieNorvvAShtoqQDA&amp;ved=0EKkuCAQoAQ" id="gb1">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:-17px -207px"></span>
+                                      <span class="gb_4">我的标绘2</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:2">
+                                  <a class="gb_O" data-pid="8" href="https://maps.google.com.sg/maps?hl=zh-TW&amp;tab=ll&amp;ei=CgXeV_ieNorvvAShtoqQDA&amp;ved=0EKkuCAUoAg" id="gb8">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -450px"></span>
+                                      <span class="gb_4">标绘</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:3">
+                                  <a class="gb_O" data-pid="36" href="https://www.youtube.com/?gl=SG" data-ved="0EMEuCAYoAw">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 0"></span>
+                                      <span class="gb_4">我的标绘4</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:4">
+                                  <a class="gb_O" data-pid="78" href="https://play.google.com/?hl=zh-TW&amp;tab=l8" id="gb78" data-ved="0EMEuCAcoBA">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1779px"></span>
+                                      <span class="gb_4">我的标绘5</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:5">
+                                  <a class="gb_O" data-pid="23" href="https://mail.google.com/mail/?tab=lm"  data-ved="0EMEuCAgoBQ">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1710px"></span>
+                                      <span class="gb_4">我的标绘6</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:6">
+                                  <a class="gb_O" data-pid="49" href="https://drive.google.com/?tab=lo&amp;authuser=0" id="gb49" data-ved="0EMEuCAkoBg">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -138px"></span>
+                                      <span class="gb_4">我的标绘</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:7">
+                                  <a class="gb_O" data-pid="24" href="https://www.google.com/calendar?tab=lc" id="gb24" data-ved="0EMEuCAooBw">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -2059px"></span>
+                                      <span class="gb_4">我的标绘</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:8">
+                                  <a class="gb_O" data-pid="119" href="https://plus.google.com/u/0/?gpsrc=ogpy0&amp;tab=lX" id="gb119" data-ved="0EMEuCAsoCA">
+                                      <div class="gb_8"></div><div class="gb_9"></div><div class="gb_aa"></div><div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -938px"></span>
+                                      <span class="gb_4">我的标绘</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:9">
+                                  <a class="gb_O" data-pid="51" href="https://translate.google.com.sg/?hl=zh-TW&amp;tab=lT" id="gb51" data-ved="0EMEuCAwoCQ">
+                                      <div class="gb_8"></div><div class="gb_9"></div><div class="gb_aa"></div><div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -693px"></span>
+                                      <span class="gb_4">我的标绘</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg1:a">
+                                  <a class="gb_O" data-pid="31" href="https://photos.google.com/?tab=lq"  data-ved="0EMEuCA0oCg">
+                                      <div class="gb_8"></div><div class="gb_9"></div><div class="gb_aa"></div><div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1145px"></span>
+                                      <span class="gb_4">相片</span>
+                                  </a>
+                              </li>
+                          </ul>
+                      </div>
+
+                      <!-- Tab - myCollect -->
+
+                      <div role="tabpanel" class="tab-pane" id="myCollect">
+                          <ul class="gb_ja gb_ca lt-pad22-l" aria-dropeffect="move">
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:0">
+                                  <a class="gb_O" data-pid="192" href="https://myaccount.google.com/?utm_source=OGB" id="gb192" data-ved="0EMEuCAMoAA">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1451px"></span>
+                                      <span class="gb_4">我的收藏1</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:1">
+                                  <a class="gb_O" data-pid="1" href="https://www.google.com.sg/webhp?tab=lw&amp;ei=CgXeV_ieNorvvAShtoqQDA&amp;ved=0EKkuCAQoAQ" id="gb1">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:-17px -207px"></span>
+                                      <span class="gb_4">我的收藏2</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:2">
+                                  <a class="gb_O" data-pid="8" href="https://maps.google.com.sg/maps?hl=zh-TW&amp;tab=ll&amp;ei=CgXeV_ieNorvvAShtoqQDA&amp;ved=0EKkuCAUoAg" id="gb8">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -450px"></span>
+                                      <span class="gb_4">收藏</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:3">
+                                  <a class="gb_O" data-pid="36" href="https://www.youtube.com/?gl=SG" id="gb36" data-ved="0EMEuCAYoAw">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 0"></span>
+                                      <span class="gb_4">我的收藏4</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:4">
+                                  <a class="gb_O" data-pid="78" href="https://play.google.com/?hl=zh-TW&amp;tab=l8" id="gb78" data-ved="0EMEuCAcoBA">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1779px"></span>
+                                      <span class="gb_4">我的收藏5</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:5">
+                                  <a class="gb_O" data-pid="23" href="https://mail.google.com/mail/?tab=lm" id="gb23" data-ved="0EMEuCAgoBQ">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1710px"></span>
+                                      <span class="gb_4">我的收藏6</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:6">
+                                  <a class="gb_O" data-pid="49" href="https://drive.google.com/?tab=lo&amp;authuser=0" id="gb49" data-ved="0EMEuCAkoBg">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -138px"></span>
+                                      <span class="gb_4">我的收藏</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:7">
+                                  <a class="gb_O" data-pid="24" href="https://www.google.com/calendar?tab=lc" id="gb24" data-ved="0EMEuCAooBw">
+                                      <div class="gb_8"></div>
+                                      <div class="gb_9"></div>
+                                      <div class="gb_aa"></div>
+                                      <div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -2059px"></span>
+                                      <span class="gb_4">我的收藏</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:8">
+                                  <a class="gb_O" data-pid="119" href="https://plus.google.com/u/0/?gpsrc=ogpy0&amp;tab=lX" id="gb119" data-ved="0EMEuCAsoCA">
+                                      <div class="gb_8"></div><div class="gb_9"></div><div class="gb_aa"></div><div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -938px"></span>
+                                      <span class="gb_4">我的收藏</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:9">
+                                  <a class="gb_O" data-pid="51" href="https://translate.google.com.sg/?hl=zh-TW&amp;tab=lT" id="gb51" data-ved="0EMEuCAwoCQ">
+                                      <div class="gb_8"></div><div class="gb_9"></div><div class="gb_aa"></div><div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -693px"></span>
+                                      <span class="gb_4">我的收藏</span>
+                                  </a>
+                              </li>
+                              <li class="gb_Z" aria-grabbed="false" id="ogbkddg:a">
+                                  <a class="gb_O" data-pid="31" href="https://photos.google.com/?tab=lq" id="gb31" data-ved="0EMEuCA0oCg">
+                                      <div class="gb_8"></div><div class="gb_9"></div><div class="gb_aa"></div><div class="gb_ba"></div>
+                                      <span class="gb_3" style="background-position:0 -1145px"></span>
+                                      <span class="gb_4">相片</span>
+                                  </a>
+                              </li>
+                          </ul>
+                      </div>
+
+                      <!-- Tab - myShare -->
+
+                      <div role="tabpanel" class="tab-pane" id="myShare">
+
+                      </div>
+
+                  </div><!-- /.tab-content -->
                   </div>
               </div>
           </div>
