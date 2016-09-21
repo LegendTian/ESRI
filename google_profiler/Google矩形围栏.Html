@@ -1,0 +1,73 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/> 
+<title>Google Maps JavaScript API v3 Example: Marker Simple</title> 
+<link href="http://code.google.com/apis/maps/documentation/javascript/examples/default.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script> 
+<script type="text/javascript"> 
+function initialize() {
+    var myLatlng = new google.maps.LatLng(29.678815, 121.426489);
+    var myOptions = {
+        zoom: 12,
+        center: myLatlng,
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        disableDoubleClickZoom:true
+    }
+    var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+    var marker = new google.maps.Marker({
+        position: myLatlng,
+        map: map,
+        title: "Hello World!"
+    });
+
+    function getRectPoint(startPoint,endPoint){
+        var a= [
+            new google.maps.LatLng(startPoint.lat(),startPoint.lng()),
+            new google.maps.LatLng(startPoint.lat(),endPoint.lng()),
+            new google.maps.LatLng(endPoint.lat(),endPoint.lng()),
+            new google.maps.LatLng(endPoint.lat(),startPoint.lng())
+        ];
+        return a;
+    }
+
+    var rectangle=null;
+    var rectOptions = {
+        strokeColor: "#FF0000",
+        strokeOpacity: 0.8,
+        strokeWeight: 2,
+        fillColor: "#FF0000",
+        fillOpacity: 0.35,
+        map: map,
+        clickable:false,
+    };
+    
+    var beginlatlng = ""; //记录起始点坐标
+    var endlatlng = ""; //记录结束点坐标
+    var SfMove = "";
+    var SFDblClick="";
+    var ClickCount = 0; //点击次数    
+    SfClick = google.maps.event.addListener(map, 'click', function(e) {
+        ClickCount++;
+        if (ClickCount == 1) {
+            beginlatlng = e.latLng;
+            rectangle = new google.maps.Polygon(rectOptions);
+            SfMove = google.maps.event.addListener(map, "mousemove",function(e) {
+                endlatlng = e.latLng;
+                rectangle.setPath(getRectPoint(beginlatlng,endlatlng));
+            });
+            SFDblClick = google.maps.event.addListener(map,"dblclick",function(e){
+                ClickCount=0;
+                google.maps.event.removeListener(SfMove);
+                google.maps.event.removeListener(SFDblClick);
+            });
+        }
+    });
+}
+</script> 
+</head> 
+<body onLoad="initialize()"> 
+  <div id="map_canvas"></div> 
+</body>
